@@ -596,14 +596,20 @@ p.bib-tags a {
   align-items: center;
   gap: 1em;
 }
-.mentor__profile_image img {
+.mentor__profile_image img,
+.committee__profile_image img {
   width: 270px;
   border-radius: 50%;
+  box-shadow: 4px 0px 10px -2px #f7bfd3;
 }
 .mentoring__container p,
-.card--mentors p
-.card--committee p {
+.card--mentors p,
+.committee__bio p {
   margin-bottom: 0.5em;
+}
+p.committee__title {
+  margin-top: -1em;
+  font-size: 0.85em;
 }
 
 // MEDIA QUERIES
