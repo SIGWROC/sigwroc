@@ -18,15 +18,20 @@ sections:
     alttext: Python code
   - heading: Current Committee Members
     text: >
-      Chair: Chris A. Lindgren, Assistant Professor of Technical Communication,
-      Virginia Tech; Associate Chair: Brandee Easter, Assistant Professor,
-      Writing Department, York University; Communications Officer: Cara Marta
-      Messina, Assistant Professor, English Department, Jacksonville State
-      University; At-Large Member: Sarah Young, Lecturer at the School of
-      Information, University of Arizona; Graduate Student Representative:
-      Alfred L. Owusu-Ansah, PhD Candidate, Michigan Technological University
+      - Chair: Chris A. Lindgren, Assistant Professor of Technical Communication,
+      Virginia Tech;
+      
+      - Associate Chair: Brandee Easter, Assistant Professor,
+      Writing Department, York University; 
+      
+      - Communications Officer: Cara Marta Messina, Assistant Professor, English Department, Jacksonville State University;
+      
+      - At-Large Member: Sarah Young, Lecturer at the School of Information, University of Arizona; 
+      
+      - Graduate Student Representative: Alfred L. Owusu-Ansah, PhD Candidate, Michigan Technological University
   - heading: Former Committee Members
-    text: Antonio Byrd; Assistant Professor; Department of English, Language, and
+    text: > 
+      - Antonio Byrd; Assistant Professor; Department of English, Language, and
       Literature; University of Missouri – Kansas City
 cccc_meetings:
   - heading: 2017 Meeting
