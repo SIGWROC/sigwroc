@@ -5,7 +5,7 @@ sections:
       code readings. To find the full list of readings, including tangentially
       related texts, visit our Zotero group:
       <https://www.zotero.org/groups/4605692/wroc>"
-    imageUrl: /uploads/4c_logo.gif
+    imageUrl: /uploads/python_code.png
     alttext: Python code
 title: Bibliography
 ---
