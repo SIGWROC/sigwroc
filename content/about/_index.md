@@ -18,21 +18,30 @@ sections:
     alttext: Python code
   - heading: Current Committee Members
     text: >
-      - Chair: Chris A. Lindgren, Assistant Professor of Technical Communication,
-      Virginia Tech;
-      
-      - Associate Chair: Brandee Easter, Assistant Professor,
-      Writing Department, York University; 
-      
+      - Chair: Chris A. Lindgren, Assistant Professor of Technical
+      Communication, Virginia Tech;
+
+      - Associate Chair: Brandee Easter, Assistant Professor, Writing Department, York University; 
+
       - Communications Officer: Cara Marta Messina, Assistant Professor, English Department, Jacksonville State University;
-      
+
       - At-Large Member: Sarah Young, Lecturer at the School of Information, University of Arizona; 
-      
+
       - Graduate Student Representative: Alfred L. Owusu-Ansah, PhD Candidate, Michigan Technological University
   - heading: Former Committee Members
-    text: > 
+    text: >
       - Antonio Byrd; Assistant Professor; Department of English, Language, and
       Literature; University of Missouri – Kansas City
+committee_list:
+  - name: Chris Lindgren
+    title: Assistant Professor of Technical Communication
+    institution: Virginia Tech
+    status: Current
+    role: Chair
+    bio: Dr. Chris Lindgren's (he/him) research and teaching focuses on coding as a
+      form of writing with data, digital cultural rhetoric, and visual rhetoric.
+    imageUrl: /uploads/lindgren_portrait_2020.jpg
+    alttext: Profile picture of Chris Lindgren
 cccc_meetings:
   - heading: 2017 Meeting
     text: More info to come ...
