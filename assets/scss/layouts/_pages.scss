@@ -600,3 +600,19 @@ p.bib-tags a {
 .card--mentors p {
   margin-bottom: 0.5em;
 }
+
+// MEDIA QUERIES
+@media screen and (max-width:610px) {
+  .nav__main_nav,
+  .card--mentors {
+    flex-direction: column;
+  }
+  .nav__main_nav nav ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .card--mentors {
+    align-items: flex-start;
+  }
+}
