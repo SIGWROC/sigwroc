@@ -134,6 +134,7 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Name, name: name, widget: string}
               - {label: Title, name: title, widget: string}
+              - {label: Institution, name: institution, widget: string}
               - {label: "Status", name: status, 
                   widget: "select", 
                   options: ["Current", "Former"]}
