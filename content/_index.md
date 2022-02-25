@@ -6,9 +6,9 @@ date: 2020-04-17T12:18:10+00:00
 title: Writing and Rhetoric of Code
 image: ""
 feature:
-  heading: WROC
+  heading: About WROC
   featurecopy: >-
-    The Writing and Rhetorics of Code group was established to bring together
+    The Writing and Rhetoric of Code group was established to bring together
     rhetoric, writing studies, and literacy scholars invested in all things
     coding and programming. WROC meets annually at the Conference on College
     Composition and Communication. 
