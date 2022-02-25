@@ -161,6 +161,8 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Bio, name: bio, widget: text}
               - {label: Status, name: status, widget: text}
               - {label: Contact, name: contact, widget: text}
+              - {label: "Profile Image", name: imageUrl, widget: image, required: false}
+              - {label: "Image Alt Text", name: alttext, widget: text, required: false}
 taxonomies:
   tag: tags
   category: categories

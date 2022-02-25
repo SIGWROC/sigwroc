@@ -3,13 +3,18 @@
   <p>Coming soon!</p>
   <div class="card_container--wroc-meeting">
     {{ range .Params.mentor_list }}
-    <div class="card--wroc-meeting">
-      <strong>{{ .heading  }}</strong>
-      <p>{{ .bio }}</p>
-      {{if .status }}
-        <p>{{ .status  }}! Please contact at {{ .contact }}</p>
-      {{end}}
-      </ul>
+    <div class="card--wroc-meeting flex">
+      <div class="mentor__profile_image">
+        <img src="{{.imageUrl}}"
+             alt="{{.alttext}}" />
+      </div>
+      <div class="mentor__bio"></div>
+        <h4>{{ .heading  }}</h4>
+        <p>{{ .bio }}</p>
+        {{if .status }}
+          <p>{{ .status  }}! Please contact at {{ .contact }}</p>
+        {{end}}
+      </div>
     </div>
     {{ end }}
   </div>
