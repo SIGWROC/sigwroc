@@ -61,6 +61,17 @@ committee_list:
       studies.
     imageUrl: /uploads/messinaheadshot.jpeg
     alttext: Profile image of Cara Marta Messina
+  - name: Sara Young
+    institution: University of Arizona
+    status: Current
+    role: At-Large Member
+    bio: Dr. Sara Young researches surveillance, technology, communication,
+      digitalization, policy, justice, and ethics, especially for systems and in
+      the workplace.  She spent over 11 years as an investigator doing national
+      security and public trust background investigations in the United States.
+    imageUrl: /uploads/young_sarah_profile.jpeg
+    alttext: Profile of Sarah Young.
+    title: Lecturer
 cccc_meetings:
   - heading: 2017 Meeting
     text: More info to come ...
