@@ -539,7 +539,8 @@ p.bib-tags a {
 .card_container { padding: 2em; }
 .card_container--wroc-project,
 .card_container--wroc-meeting,
-.card_container--mentors {
+.card_container--mentors,
+.card_container--committee {
   display: grid;
   grid-gap: 10px;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
@@ -547,7 +548,8 @@ p.bib-tags a {
 }
 .card--wroc-project,
 .card--wroc-meeting,
-.card--mentors {
+.card--mentors,
+.card--committee {
   background: #fb1e6f2b;
   padding: 15px;
 }
@@ -589,7 +591,8 @@ p.bib-tags a {
   margin-bottom: 0;
 }
 
-.card--mentors {
+.card--mentors,
+.card--committee {
   align-items: center;
   gap: 1em;
 }
@@ -598,14 +601,16 @@ p.bib-tags a {
   border-radius: 50%;
 }
 .mentoring__container p,
-.card--mentors p {
+.card--mentors p
+.card--committee p {
   margin-bottom: 0.5em;
 }
 
 // MEDIA QUERIES
 @media screen and (max-width:610px) {
   .nav__main_nav,
-  .card--mentors {
+  .card--mentors,
+  .card--committee {
     flex-direction: column;
   }
   .nav__main_nav nav ul {
@@ -613,7 +618,8 @@ p.bib-tags a {
     flex-direction: column;
     align-items: center;
   }
-  .card--mentors {
+  .card--mentors,
+  .card--committee {
     align-items: flex-start;
   }
 }

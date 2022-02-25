@@ -126,6 +126,23 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Section Copy", name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image, required: false}
               - {label: "Image Alt Text", name: alttext, widget: text, required: false}
+          - label: "Committee"
+            name: "committee_list"
+            widget: list
+            folder: "content/committee_list"
+            create: true
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: "Status", name: status, 
+                  widget: "select", 
+                  options: ["Current", "Former"]}
+              - {label: "Role", name: "role", 
+                  widget: "select", 
+                  options: ["Chair", "Associate Chair", "Communication Officer","At-Large Member","Graduate Student Representative","Website Manager"]}
+              - {label: Bio, name: bio, widget: text}
+              - {label: "Profile Image", name: imageUrl, widget: image, required: false}
+              - {label: "Image Alt Text", name: alttext, widget: text, required: false}
           - label: "4Cs Meetings"
             name: "cccc_meetings"
             widget: list

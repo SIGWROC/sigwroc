@@ -1,0 +1,50 @@
+<div class="card_container">
+  <div id="current-committee">
+    <h3 class="f3 b lh-title mb1">Current Committee Members</h3>
+    <div class="card_container--committee">
+      {{ range .Params.committee_list }}
+
+        {{ $status := .status }}
+        {{ $true := "Current" }}
+        {{if eq $status $true }}
+
+          <div class="card--committee flex">
+            <div class="committee__profile_image">
+              <img src="{{.imageUrl}}"
+                  alt="{{.alttext}}" />
+            </div>
+            <div class="committee__bio">
+              <h4><strong>{{ .role  }}</strong>: {{ .name  }}</h4>
+              <p>{{ .bio }}</p>
+            </div>
+          </div>
+        
+        {{end}}
+      {{ end }}
+    </div>
+  </div>
+  <div id="current-committee">
+    <h3 class="f3 b lh-title mb1">Former Committee Members</h3>
+    <div class="card_container--committee">
+      {{ range .Params.committee_list }}
+
+        {{ $status := .status }}
+        {{ $true := "Former" }}
+        {{if eq $status $true }}
+
+          <div class="card--committee flex">
+            <div class="committee__profile_image">
+              <img src="{{.imageUrl}}"
+                  alt="{{.alttext}}" />
+            </div>
+            <div class="committee__bio">
+              <h4><strong>{{ .role  }}</strong>: {{ .name  }}</h4>
+              <p>{{ .bio }}</p>
+            </div>
+          </div>
+        
+        {{end}}
+      {{ end }}
+    </div>
+  </div>
+</div>
