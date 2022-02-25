@@ -538,14 +538,16 @@ p.bib-tags a {
 // PROJECTS
 .card_container { padding: 2em; }
 .card_container--wroc-project,
-.card_container--wroc-meeting {
+.card_container--wroc-meeting,
+.card_container--mentors {
   display: grid;
   grid-gap: 10px;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   padding: 1em;
 }
 .card--wroc-project,
-.card--wroc-meeting {
+.card--wroc-meeting,
+.card--mentors {
   background: #fb1e6f2b;
   padding: 15px;
 }
@@ -585,4 +587,15 @@ p.bib-tags a {
   font-size: 0.5em;
   margin-top: 10px;
   margin-bottom: 0;
+}
+
+.card--mentors {
+  align-items: center;
+  gap: 1em;
+}
+.mentor__profile_image img {
+  border-radius: 50%;
+}
+.card--mentors p {
+  margin-bottom: 0.5em;
 }

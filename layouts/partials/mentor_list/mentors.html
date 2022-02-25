@@ -1,18 +1,18 @@
 <div class="card_container">
   <h3 class="f3 b lh-title mb1">Mentor List</h3>
-  <p>Coming soon!</p>
-  <div class="card_container--wroc-meeting">
+  <div class="card_container--mentors">
     {{ range .Params.mentor_list }}
-    <div class="card--wroc-meeting flex">
+    <div class="card--mentors flex">
       <div class="mentor__profile_image">
         <img src="{{.imageUrl}}"
              alt="{{.alttext}}" />
       </div>
-      <div class="mentor__bio"></div>
+      <div class="mentor__bio">
         <h4>{{ .heading  }}</h4>
         <p>{{ .bio }}</p>
         {{if .status }}
-          <p>{{ .status  }}! Please contact at {{ .contact }}</p>
+          <p>{{ .status  }}!</p>
+          <p>Please contact at {{ .contact }}</p>
         {{end}}
       </div>
     </div>
