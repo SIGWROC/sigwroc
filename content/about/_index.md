@@ -51,6 +51,16 @@ committee_list:
       feminist rhetoric, and 21st century literacies.
     imageUrl: /uploads/easter_brandee_profile.jpeg
     alttext: Profile image of Dr. Brandee Easter
+  - name: Cara Marta Messina
+    title: Assistant Professor of English (Professional Writing)
+    institution: Jacksonville State University
+    status: Current
+    role: Communication Officer
+    bio: Dr. Marta Messina's research and teaching focus on digital rhetoric,
+      intersectional feminism, game studies, coding and data rhetorics, and fan
+      studies.
+    imageUrl: /uploads/messinaheadshot.jpeg
+    alttext: Profile image of Cara Marta Messina
 cccc_meetings:
   - heading: 2017 Meeting
     text: More info to come ...
