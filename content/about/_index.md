@@ -42,6 +42,15 @@ committee_list:
       form of writing with data, digital cultural rhetoric, and visual rhetoric.
     imageUrl: /uploads/lindgren_portrait_2020.jpg
     alttext: Profile picture of Chris Lindgren
+  - name: Brandee Easter
+    title: Assistant Professor of Writing
+    institution: York University
+    status: Current
+    role: Associate Chair
+    bio: Dr. Brandee Easter's research and teaching focuses on digital rhetoric,
+      feminist rhetoric, and 21st century literacies.
+    imageUrl: /uploads/easter_brandee_profile.jpeg
+    alttext: Profile image of Dr. Brandee Easter
 cccc_meetings:
   - heading: 2017 Meeting
     text: More info to come ...
