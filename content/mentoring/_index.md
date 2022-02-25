@@ -13,4 +13,6 @@ mentor_list:
       feminist rhetoric, and 21st century literacies.
     status: Available
     contact: test@email.com
+    imageUrl: /uploads/easter_brandee_profile.jpeg
+    alttext: Profile picture of Dr. Brandee Easter
 ---
