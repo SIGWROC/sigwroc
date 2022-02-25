@@ -137,6 +137,30 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Image, name: imageUrl, widget: image, required: false}
               - {label: "Meeting Agenda", name: "agenda", widget: "file", required: false, assetDir: "uploads/meetings", media_folder: "../uploads/meetings", public_folder: "../uploads/meetings", config: {multiple: false}}
               - {label: "Meeting Notes", name: "notes", widget: "file", required: false, assetDir: "uploads/meetings", media_folder: "../uploads/meetings", public_folder: "../uploads/meetings", config: {multiple: false}}
+      - file: "content/mentoring/_index.md"
+        label: "Mentoring"
+        name: "mentoring"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: "Section Copy", name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image, required: false}
+              - {label: "Image Alt Text", name: alttext, widget: text, required: false}
+          - label: "Mentors"
+            name: "mentor_list"
+            widget: list
+            folder: "content/mentor_list"
+            create: true
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Bio, name: bio, widget: text}
+              - {label: Status, name: status, widget: text}
+              - {label: Contact, name: contact, widget: text}
 taxonomies:
   tag: tags
   category: categories
