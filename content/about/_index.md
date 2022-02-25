@@ -60,6 +60,17 @@ committee_list:
     imageUrl: /uploads/young_sarah_profile.jpeg
     alttext: Profile of Sarah Young.
     title: Lecturer
+  - bio: "Alfred Owusu-Ansah (he/him/his) is a PhD student at the Department of
+      Humanities at Michigan Technological University. His PhD research seeks to
+      argue for a broader understanding of literacy-in-action by advancing a
+      posthuman pedagogy for writing and programming. "
+    name: Alfred Owusu-Ansah
+    title: Ph.D. Student
+    institution: Michigan Technological University
+    status: Current
+    role: Graduate Student Representative
+    imageUrl: /uploads/owusu-ansah-alfred_profile.jpeg
+    alttext: Profile of Alfred Owusu-Ansah.
 cccc_meetings:
   - heading: 2017 Meeting
     text: More info to come ...
