@@ -34,10 +34,6 @@
         {{if eq $status $true }}
 
           <div class="card--committee flex">
-            <div class="committee__profile_image">
-              <img src="{{.imageUrl}}"
-                  alt="{{.alttext}}" />
-            </div>
             <div class="committee__bio">
               <h4><strong>{{ .role  }}</strong>: {{ .name  }}</h4>
               <p class="committee__title"><em>{{ .title }} at {{ .institution }}</em></p>
