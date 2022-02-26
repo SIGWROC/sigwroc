@@ -16,10 +16,6 @@ sections:
       the discipline.
     imageUrl: /uploads/4c_logo.gif
     alttext: Python code
-  - heading: Former Committee Members
-    text: >
-      - Antonio Byrd; Assistant Professor; Department of English, Language, and
-      Literature; University of Missouri – Kansas City
 committee_list:
   - name: Chris Lindgren
     title: Assistant Professor of Technical Communication
@@ -71,6 +67,14 @@ committee_list:
     role: Graduate Student Representative
     imageUrl: /uploads/owusu-ansah-alfred_profile.jpeg
     alttext: Profile of Alfred Owusu-Ansah.
+  - name: Antonio Byrd
+    bio: Dr. Antonio Byrd studies how Black people access and learn computer
+      programming to address racial and economic inequality in their
+      communities.
+    status: Former
+    title: Assistant Professor
+    institution: University of Missouri – Kansas City
+    role: Chair
 cccc_meetings:
   - heading: 2017 Meeting
     text: More info to come ...
