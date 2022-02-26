@@ -74,7 +74,7 @@ committee_list:
     status: Former
     title: Assistant Professor
     institution: University of Missouri – Kansas City
-    role: Chair
+    role: Co-Chair
 cccc_meetings:
   - heading: 2017 Meeting
     text: More info to come ...
