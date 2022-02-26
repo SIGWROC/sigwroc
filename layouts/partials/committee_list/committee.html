@@ -14,7 +14,8 @@
                   alt="{{.alttext}}" />
             </div>
             <div class="committee__bio">
-              <h4><strong>{{ .role  }}</strong>: {{ .name  }}</h4>
+              <h4>{{ .role  }}</h4>
+              <p class="committee__name">{{ .name }}</p>
               <p class="committee__title"><em>{{ .title }} at {{ .institution }}</em></p>
               <p>{{ .bio }}</p>
             </div>
@@ -35,7 +36,8 @@
 
           <div class="card--committee flex">
             <div class="committee__bio">
-              <h4><strong>{{ .role  }}</strong>: {{ .name  }}</h4>
+              <h4>{{ .role  }}</h4>
+              <p class="committee__name">{{ .name }}</p>
               <p class="committee__title"><em>{{ .title }} at {{ .institution }}</em></p>
               <p>{{ .bio }}</p>
             </div>
