@@ -631,6 +631,12 @@ p.committee__title {
     text-align: center;
     border-bottom: 1px solid #fd4201;
   }
+  .card_container--wroc-project,
+  .card_container--wroc-meeting,
+  .card_container--mentors,
+  .card_container--committee {
+    padding: 0;
+  }
   .card--mentors,
   .card--committee {
     align-items: center;
