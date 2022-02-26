@@ -27,7 +27,32 @@
   }
 }
 
-.header__logo {
-  display: flex;
-  align-items: center;
+h1.logo_text {
+  margin: 0;
+  padding: 0 0 0 15px;
+  text-transform: uppercase;
+  letter-spacing: .062rem;
+}
+h1.logo_text a {
+  text-decoration: none;
+  color: #fe4300;
+}
+@media screen and (max-width: 610px) {
+
+  .navbar-brand {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-right: 0;
+    font-size: inherit;
+    white-space: inherit;
+  }
+  .header__logo {
+    display: flex;
+    justify-content: center;
+    background: #fe4b16;
+    padding: 0.75em 0;
+  }
+  h1.logo_text a {
+    color: white;
+  } 
 }

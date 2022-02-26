@@ -20,18 +20,6 @@ p.meta a:focus {
   color: $primary;
 }
 
-h1.logo_text {
-  margin: 0;
-  padding: 0 0 0 15px;
-  text-transform: uppercase;
-  letter-spacing: .062rem;
-}
-
-h1.logo_text a {
-  text-decoration: none;
-  color: #fe4300;
-}
-
 // PRIMARY NAVIGATION
 .nav__main_nav {
   display: flex;
@@ -619,7 +607,7 @@ p.committee__title {
 }
 
 // MEDIA QUERIES
-@media screen and (max-width:610px) {
+@media screen and (max-width: 610px) {
   .nav__main_nav,
   .card--mentors,
   .card--committee {
@@ -635,6 +623,11 @@ p.committee__title {
     width: -webkit-fill-available;
     text-align: center;
     border-bottom: 1px solid #fd4201;
+  }
+  .nav__main_nav nav a:hover {
+    background: #fe4300;
+    color: white;
+    border: #ffb093 solid 2px;
   }
   .card_container--wroc-project,
   .card_container--wroc-meeting,
