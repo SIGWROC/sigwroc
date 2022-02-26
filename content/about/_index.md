@@ -71,6 +71,14 @@ committee_list:
     role: Graduate Student Representative
     imageUrl: /uploads/owusu-ansah-alfred_profile.jpeg
     alttext: Profile of Alfred Owusu-Ansah.
+  - name: Antonio Byrd
+    bio: Dr. Antonio Byrd studies how Black people access and learn computer
+      programming to address racial and economic inequality in their
+      communities.
+    status: Former
+    title: Assistant Professor
+    institution: University of Missouri – Kansas City
+    role: Chair
 cccc_meetings:
   - heading: 2017 Meeting
     text: More info to come ...
