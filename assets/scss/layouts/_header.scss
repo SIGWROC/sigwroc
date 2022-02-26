@@ -1,3 +1,8 @@
+.header__logo {
+  display: flex;
+  align-items: center;
+}
+
 .banner .nav li {
   @extend .nav-item;
 }
@@ -38,7 +43,6 @@ h1.logo_text a {
   color: #fe4300;
 }
 @media screen and (max-width: 610px) {
-
   .navbar-brand {
     padding-top: 0;
     padding-bottom: 0;
@@ -47,12 +51,26 @@ h1.logo_text a {
     white-space: inherit;
   }
   .header__logo {
-    display: flex;
     justify-content: center;
     background: #fe4b16;
-    padding: 0.75em 0;
+    width: 100%;
+    margin: auto;
+    padding: 0;
+  }
+  h1.logo_text {
+    padding: 0;
+    width: 100%;
+    border: #fe4300 2px solid;
   }
   h1.logo_text a {
+    display: block;
     color: white;
+    width: 100%;
+    text-align: center;
+    padding: 0.5em 0;
   } 
+  h1.logo_text a:hover {
+    color: #fe4300;
+    background: white;
+  }
 }
