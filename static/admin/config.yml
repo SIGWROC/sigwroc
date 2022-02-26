@@ -140,7 +140,7 @@ collections: # A list of collections the CMS should be able to edit
                   options: ["Current", "Former"]}
               - {label: "Role", name: "role", 
                   widget: "select", 
-                  options: ["Chair", "Associate Chair", "Communication Officer","At-Large Member","Graduate Student Representative","Website Manager"]}
+                  options: ["Chair", "Associate Chair", "Communication Officer","At-Large Member","Graduate Student Representative","Website Manager", "Co-Chair"]}
               - {label: Bio, name: bio, widget: text}
               - {label: "Profile Image", name: imageUrl, widget: image, required: false}
               - {label: "Image Alt Text", name: alttext, widget: text, required: false}
