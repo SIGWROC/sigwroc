@@ -16,10 +16,6 @@ sections:
       the discipline.
     imageUrl: /uploads/4c_logo.gif
     alttext: Python code
-  - heading: Former Committee Members
-    text: >
-      - Antonio Byrd; Assistant Professor; Department of English, Language, and
-      Literature; University of Missouri – Kansas City
 committee_list:
   - name: Chris Lindgren
     title: Assistant Professor of Technical Communication
