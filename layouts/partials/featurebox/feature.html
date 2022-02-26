@@ -1,12 +1,14 @@
-
 <div class="feature_box_container bg-off-white">
   <div class="pv6 center">
       
     <div class="feature_box flex items-center  justify-evenly flex__gap_2 mhn2-ns mb3">
+
+      {{ if .image }}
+      
       <div class="ph2-ns w-50-ns">
         <img src="{{.image}}" 
-             class="feature_box_img center db mb3"
-             alt="{{.alttext}}"
+            class="feature_box_img center db mb3"
+            alt="{{.alttext}}"
         />
       </div>
       <div class="ph2-ns w-50-ns">
@@ -15,6 +17,17 @@
         </h2>
         <div>{{.featurecopy | markdownify}}</div>
       </div>
+
+      {{ else }}
+
+      <div class="ph2-ns w-50-ns">
+        <h2 class="f2 b lh-title mb2">
+          {{ .heading }}
+        </h2>
+        <div>{{.featurecopy | markdownify}}</div>
+      </div>
+
+      {{ end }}
       
     </div>
 

@@ -18,6 +18,4 @@ feature:
 
 
     If you're interested in joining the WROC mailing list for updates, please contact the Communications Officer: Cara Marta Messina at cmessina@jsu.edu
-  image: /uploads/python_code.png
-  alttext: Python code within a code editor
 ---
