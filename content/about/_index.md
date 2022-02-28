@@ -76,23 +76,26 @@ committee_list:
     institution: University of Missouri – Kansas City
     role: Co-Chair
 cccc_meetings:
-  - heading: 2017 Meeting
-    text: More info to come ...
+  - heading: 2017 CCCCs Meeting
+    text: "Our innaugural meeting held in Portland, OR! We set the foundations
+      of the annual intention to meet and stabilize the field. We also went 
+      out for burgers and fries after the meeting."
     agenda: ../uploads/meetings/4c17-sigwroc-proposal.pdf
-  - heading: 2018 Meeting
-    text: More info to come ..
+  - heading: 2018 CCCCs Meeting
+    text: "No official meeting was held this year, but Dr. Antonio Byrd was
+      able to round a few folks together to keep the momentum going."
   - heading: 2021 CCCCs Meeting
     text: "The WROC SIG met virtually for 4Cs 2021. The mission of the WROC group
       was introduced and short lightning round breakout rooms were created so
-      group members could get to know each other. "
+      group members could get to know each other."
     agenda: ../uploads/meetings/2021-sigwroc-lightning-rounds.pdf
     notes: ""
-  - heading: 2021 First Committee Meeting
+  - heading: 2021 First Official Committee Meeting
     text: The first official WROC Committee Meeting after elections. The committee
       discusses goals to continue the development of WROC, including building
       bibliographies and a mentorship program.
     agenda: ../uploads/meetings/2021-10-15-firstcommitteemeeting.pdf
   - heading: 2022 Meeting
     text: "The WROC SIG will meet virtually again for 4Cs 2022. Stay tuned for more
-      information! "
+      information!"
 ---

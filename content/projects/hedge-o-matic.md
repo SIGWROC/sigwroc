@@ -1,5 +1,5 @@
 ---
-projtype: method
+projtype: analytics
 contributors: Ryan Omizo and Bill Hart-Davidson
 title: Hedge-O-Matic
 ext_url: 'http://hedgeomatic.cal.msu.edu/hedgeomatic'

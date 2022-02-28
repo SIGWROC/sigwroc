@@ -12,5 +12,6 @@ tags:
   - Python
 fields:
   - fan studies
-  - digital rhetoric
+  - feminist rhetoric
+  - computational rhetoric
 ---
