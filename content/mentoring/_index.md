@@ -2,9 +2,9 @@
 title: Mentoring Program
 sections:
   - heading: Find a WROC Mentor
-    text: "One consistent narrative has consistently been told repeatedly over the
-      years: it's hard to find other colleagues who truly understand the nuance
-      of studying programming cultures. An integral way that SIGWROC intends on
+    text: "One narrative has been shared among us all repeatedly over the years:
+      it's hard to find other colleagues who truly understand the nuance of
+      studying programming cultures. An integral way that SIGWROC intends on
       stabilizing our subfield within the broader discipline is to support
       anyone who finds themselves in need of help not available within their
       existing programs. If you need any support, we have mentors that would
