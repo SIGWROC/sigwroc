@@ -4,13 +4,13 @@ sections:
   - heading: Find a WROC Mentor
     text: "One narrative has been shared among us repeatedly over the years: it's
       hard to find other colleagues who truly understand the nuance of studying
-      programming cultures. An integral way that SIGWROC intends on stabilizing
-      our subfield within the broader discipline is to support anyone who finds
-      themselves in need of help not available within their existing programs.
-      If you need any support, we have mentors that would love to help you
-      develop your research and teaching agendas. Review the list of scholars
-      below and don't hesitate to reach out to them to start a conversation. We
-      are here for you!"
+      programming cultures and teaching about them. An integral way that SIGWROC
+      intends on stabilizing our subfield within the broader discipline is to
+      support anyone who finds themselves in need of help not available within
+      their existing programs. If you need any support, we have mentors that
+      would love to help you develop your research and teaching agendas. Review
+      the list of scholars below and don't hesitate to reach out to them to
+      start a conversation. We are here for you!"
 mentor_list:
   - heading: Brandee Easter
     bio: Dr. Brandee Easter (she/her) is an Assistant Professor of Writing at York
