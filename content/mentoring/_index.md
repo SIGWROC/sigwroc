@@ -2,7 +2,8 @@
 title: Mentoring Program
 sections:
   - heading: Find a WROC Mentor
-    text: "One narrative has been shared among us repeatedly over the years: it's
+    text: >-
+      One narrative has been shared among us repeatedly over the years: it's
       hard to find other colleagues who truly understand the nuance of studying
       programming cultures and teaching about them. An integral way that SIGWROC
       intends on stabilizing our subfield within the broader discipline is to
@@ -10,14 +11,17 @@ sections:
       their existing programs. If you need any support, we have mentors that
       would love to help you develop your research and teaching agendas. Review
       the list of scholars below and don't hesitate to reach out to them to
-      start a conversation. We are here for you!"
+      start a conversation. We are here for you!
+
+
+      If you would like to inquire about becoming a mentor, please contact WROC's Associate Chair Dr. Brandee Easter (bdeaster@yorku.ca).
 mentor_list:
   - heading: Brandee Easter
     bio: Dr. Brandee Easter (she/her) is an Assistant Professor of Writing at York
       University. Her research and teaching focuses on digital rhetoric,
       feminist rhetoric, and 21st century literacies.
     status: Available
-    contact: test@email.com
+    contact: bdeaster@yorku.ca
     imageUrl: /uploads/easter_brandee_profile.jpeg
     alttext: Profile picture of Dr. Brandee Easter
   - heading: Chris Lindgren
@@ -26,7 +30,7 @@ mentor_list:
       coding as a form of writing with data, digital cultural rhetoric, and
       visual rhetoric.
     status: Available
-    contact: test@email.com
+    contact: lindgren@vt.edu
     imageUrl: /uploads/lindgren_portrait_2020.jpg
     alttext: Profile picture of Dr. Chris Lindgren
   - heading: Cara Marta Messina
