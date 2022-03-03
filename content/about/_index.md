@@ -40,16 +40,16 @@ committee_list:
     institution: Jacksonville State University
     status: Current
     role: Communication Officer
-    bio: Dr. Marta Messina's research and teaching focus on digital rhetoric,
+    bio: Dr. Cara Marta Messina's research and teaching focus on digital rhetoric,
       intersectional feminism, game studies, coding and data rhetorics, and fan
       studies.
     imageUrl: /uploads/messinaheadshot.jpeg
     alttext: Profile image of Cara Marta Messina
-  - name: Sara Young
+  - name: Sarah Young
     institution: University of Arizona
     status: Current
     role: At-Large Member
-    bio: Dr. Sara Young researches surveillance, technology, communication,
+    bio: Dr. Sarah Young researches surveillance, technology, communication,
       digitalization, policy, justice, and ethics, especially for systems and in
       the workplace.  She spent over 11 years as an investigator doing national
       security and public trust background investigations in the United States.
@@ -77,17 +77,17 @@ committee_list:
     role: Co-Chair
 cccc_meetings:
   - heading: 2017 CCCCs Meeting
-    text: "Our innaugural meeting held in Portland, OR! We set the foundations
-      of the annual intention to meet and stabilize the field. We also went 
-      out for burgers and fries after the meeting."
+    text: Our innaugural meeting held in Portland, OR! We set the foundations of the
+      annual intention to meet and stabilize the field. We also went out for
+      burgers and fries after the meeting.
     agenda: ../uploads/meetings/4c17-sigwroc-proposal.pdf
   - heading: 2018 CCCCs Meeting
-    text: "No official meeting was held this year, but Dr. Antonio Byrd was
-      able to round a few folks together to keep the momentum going."
+    text: No official meeting was held this year, but Dr. Antonio Byrd was able to
+      round a few folks together to keep the momentum going.
   - heading: 2021 CCCCs Meeting
-    text: "The WROC SIG met virtually for 4Cs 2021. The mission of the WROC group
-      was introduced and short lightning round breakout rooms were created so
-      group members could get to know each other."
+    text: The WROC SIG met virtually for 4Cs 2021. The mission of the WROC group was
+      introduced and short lightning round breakout rooms were created so group
+      members could get to know each other.
     agenda: ../uploads/meetings/2021-sigwroc-lightning-rounds.pdf
     notes: ""
   - heading: 2021 First Official Committee Meeting
@@ -96,6 +96,6 @@ cccc_meetings:
       bibliographies and a mentorship program.
     agenda: ../uploads/meetings/2021-10-15-firstcommitteemeeting.pdf
   - heading: 2022 Meeting
-    text: "The WROC SIG will meet virtually again for 4Cs 2022. Stay tuned for more
-      information!"
+    text: The WROC SIG will meet virtually again for 4Cs 2022. Stay tuned for more
+      information!
 ---
