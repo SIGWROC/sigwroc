@@ -1,10 +1,13 @@
 ---
 sections:
   - heading: WROC Bibliography
-    text: This bibliography is a collection of important writing and rhetoric of
-      code readings. To find the full list of readings, including tangentially
-      related texts, visit the [WROC Zotero
-      Group](https://www.zotero.org/groups/4605692/wroc).
+    text: >-
+      While still a work-in-progress, this bibliography aims at being an
+      important collection of scholarship for the subfield of the writing and
+      rhetoric of code.
+
+
+      To find another list of readings, including tangentially related research from adjacent disciplines and fields, visit the [WROC Zotero Group](https://www.zotero.org/groups/4605692/wroc).
     imageUrl: ""
     alttext: ""
 title: Bibliography
