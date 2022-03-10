@@ -1,6 +1,6 @@
 ---
 pubtype: journal
-authors: Ashley Rea
+authors: Rea, Ashley
 title: "Coding Equity: Social Justice and Computer Programming Literacy Education"
 journal: IEEE Transactions on Professional Communication
 volume: Early Access
