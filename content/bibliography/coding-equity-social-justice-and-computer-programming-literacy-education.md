@@ -2,6 +2,7 @@
 pubtype: journal
 authors: Rea, Ashley
 title: "Coding Equity: Social Justice and Computer Programming Literacy Education"
+year: "2022"
 journal: IEEE Transactions on Professional Communication
 volume: Early Access
 pages: 1-17
