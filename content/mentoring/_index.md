@@ -13,9 +13,14 @@ sections:
       To help with this persistent issue, we are implementing the following programs below.
     heading: A Goal to Support Each Other
   - text: >-
-      As part of our new mentorship program, SIGWROC will be hosting a series of
-      writing-focused meet ups to help mentors and mentees connect in a low
-      stakes way. 
+      **When**: April 1, May 6, June 3, July 1 (first Fridays of the month),
+      11am-12:30pm ET
+
+
+      **Where**: Zoom link to come!
+
+
+      As part of our new mentorship program, SIGWROC will be hosting a series of writing-focused meet ups to help mentors and mentees connect in a low stakes way. 
 
 
       What we'll do:
@@ -29,7 +34,7 @@ sections:
 
 
       More information to come!
-    heading: Writing WROC Meetups
+    heading: WROC & Write Meetups
   - heading: Find a WROC Mentor
     text: >-
       If you need any support, we have mentors that would love to help you
