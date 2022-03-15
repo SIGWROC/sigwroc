@@ -2,7 +2,11 @@
 
   {{ range .Site.Pages.GroupByParam "pubtype" }}
 
-    <h3 class="f3 b lh-title mb1" style="text-transform: uppercase;">{{ .Key }}s</h3>
+    {{ if (eq .Params.pubtype "proceedings") }}
+      <h3 class="f3 b lh-title mb1" style="text-transform: uppercase;">{{ .Key }}</h3>
+    {{ else }}
+      <h3 class="f3 b lh-title mb1" style="text-transform: uppercase;">{{ .Key }}s</h3>
+    {{ end }}
     <hr>
 
     <ul class="flex-ns flex-wrap mhn1-ns cite">
@@ -69,6 +73,26 @@
         {{ if (eq .Params.pubtype "journal") }}
         <li>
           {{ .Params.authors }}. ({{ .Params.year }}). {{ if .Params.ext_url }}<a href="{{ .Params.ext_url }}" target="_blank" rel="noopener">{{ .Params.title }}</a>.{{ else }}{{ .Params.title }}.{{ end }} <em>{{ .Params.journal }}</em>, {{ .Params.volume }}{{ if .Params.issue }}({{ .Params.issue }}){{ end }}{{ if .Params.pages }}, pp. {{ .Params.pages }}{{end}}. {{ if .Params.doi }}<a href="{{ .Params.doi }}">{{ .Params.doi }}</a>{{ end }}
+          {{ if .Params.tags }}
+            <p class="bib-tags">tags:
+              {{ range (.GetTerms "tags") }}
+                <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+              {{ end }}
+            </p>
+          {{ end }}
+          {{ if .Params.fields }}
+            <p class="bib-tags">fields:
+              {{ range (.GetTerms "fields") }}
+                <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+              {{ end }}
+            </p>
+          {{ end }}
+        </li>
+        {{ end }}
+
+        {{ if (eq .Params.pubtype "proceedings") }}
+        <li>
+          {{ .Params.authors }}. ({{ .Params.year }}). {{ if .Params.ext_url }}<a href="{{ .Params.ext_url }}" target="_blank" rel="noopener">{{ .Params.title }}</a>.{{ else }}{{ .Params.title }}.{{ end }} In <em>{{ .Params.journal }}</em>{{ if .Params.volume }}, {{ .Params.volume }}{{ else }}{{ if .Params.pages }}, {{ .Params.pages }}{{end}}. {{ if .Params.doi }}<a href="{{ .Params.doi }}">{{ .Params.doi }}</a>{{ end }}
           {{ if .Params.tags }}
             <p class="bib-tags">tags:
               {{ range (.GetTerms "tags") }}
