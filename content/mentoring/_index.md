@@ -1,17 +1,41 @@
 ---
 title: Mentoring Program
 sections:
-  - heading: Find a WROC Mentor
-    text: >-
+  - text: >-
       One narrative has been shared among us repeatedly over the years: it's
       hard to find other colleagues who truly understand the nuance of studying
       programming cultures and teaching about them. An integral way that SIGWROC
       intends on stabilizing our subfield within the broader discipline is to
       support anyone who finds themselves in need of help not available within
-      their existing programs. If you need any support, we have mentors that
-      would love to help you develop your research and teaching agendas. Review
-      the list of scholars below and don't hesitate to reach out to them to
-      start a conversation. We are here for you!
+      their existing programs.
+
+
+      To help with this persistent issue, we are implementing the following programs below.
+    heading: A Goal to Support Each Other
+  - text: >-
+      As part of our new mentorship program, SIGWROC will be hosting a series of
+      writing-focused meet ups to help mentors and mentees connect in a low
+      stakes way. 
+
+
+      What we'll do:
+
+
+      - Have focused time to write, read, or work on a project
+
+      - Meet others working on projects in the writing and rhetorics of code
+
+      - Have small breakout rooms with mentors to chat
+
+
+      More information to come!
+    heading: Writing WROC Meetups
+  - heading: Find a WROC Mentor
+    text: >-
+      If you need any support, we have mentors that would love to help you
+      develop your research and teaching agendas. Review the list of scholars
+      below and don't hesitate to reach out to them to start a conversation. We
+      are here for you!
 
 
       If you would like to inquire about becoming a mentor, please contact WROC's Associate Chair Dr. Brandee Easter (bdeaster@yorku.ca).
