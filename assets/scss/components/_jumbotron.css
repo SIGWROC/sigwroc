@@ -51,6 +51,7 @@
 
 /* Animated Text Editor */
 .cont {
+  margin-top: -74px;
   position: absolute;
   z-index: 0;
   width: 100%;
