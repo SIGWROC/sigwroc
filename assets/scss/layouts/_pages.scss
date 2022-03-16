@@ -509,6 +509,9 @@ p.bib-tags {
 p.bib-tags a {
   text-decoration: none;
 }
+li p.bib-tags a:hover {
+  text-decoration: underline;
+}
 @media screen and (max-width:579px) {
   .citation-container {
     padding: 0.1em;
