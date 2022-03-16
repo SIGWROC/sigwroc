@@ -1,12 +1,11 @@
 ---
-shorttitle: Brown, The Machine
 pubtype: journal
-authors: 'Brown, J., Jr.'
+authors: Brown, James, Jr
 title: The Machine That Therefore I Am
-year: '2014'
+year: "2014"
 journal: Philosophy & Rhetoric
-volume: '47'
-issue: '4'
+volume: "47"
+issue: "4"
 pages: 494-514
 doi: muse.jhu.edu/article/562412
 tags:
@@ -16,4 +15,5 @@ tags:
   - copia
 fields:
   - computational rhetoric
+shorttitle: Brown, The Machine
 ---
