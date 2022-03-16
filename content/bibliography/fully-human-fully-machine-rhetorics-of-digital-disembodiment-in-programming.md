@@ -13,4 +13,5 @@ tags:
 fields:
   - digital rhetoric
   - rhetorical code studies
+  - feminist rhetoric
 ---
