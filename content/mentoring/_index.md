@@ -23,18 +23,21 @@ sections:
       As part of our new mentorship program, SIGWROC will be hosting a series of writing-focused meet ups to help mentors and mentees connect in a low stakes way. 
 
 
+      We are thrilled to begin more formal support for a WROC mentorship program. To get us started, we are hosting monthly *WROC and Write*! events on the first Fridays of the month. In each meeting, we will: 
+
+
       What we'll do:
 
 
-      - Have focused time to write, read, or work on a project
+      * Have focused time to write, read, or work on a project
 
-      - Meet others working on projects in the writing and rhetorics of code
+      * Meet others working on projects in the writing and rhetorics of code
 
-      - Have small breakout rooms with mentors to chat
+      * Have small breakout rooms with mentors to chat
 
 
-      More information to come!
-    heading: WROC & Write Meetups
+      Use this [Google Survey]([https://docs.google.com/forms/​d/e/1FAIpQLSegMdHA43LHMkIj-​y4hPgsm8UGnqLp9NAUeRu9k1bPQyR7​lmw/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSegMdHA43LHMkIj-y4hPgsm8UGnqLp9NAUeRu9k1bPQyR7lmw/viewform?usp=sf_link)) to sign up to receive the Zoom link for these meetings.
+    heading: WROC & Write! Meetups
   - heading: Find a WROC Mentor
     text: >-
       If you need any support, we have mentors that would love to help you
