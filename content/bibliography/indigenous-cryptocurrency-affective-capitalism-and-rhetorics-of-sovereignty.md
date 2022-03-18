@@ -10,6 +10,7 @@ doi: https://doi.org/10.5210/fm.v21i10.6955
 tags:
   - cryptocurrency
   - financial technologies
+  - sovereignty
 fields:
   - digital rhetoric
   - indigenous studies
