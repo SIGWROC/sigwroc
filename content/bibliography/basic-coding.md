@@ -1,6 +1,6 @@
 ---
 pubtype: journal
-authors: Quigley, Stephen J
+authors: Quigley, Stephen
 title: Basic Coding
 year: "2022"
 journal: Kairos
