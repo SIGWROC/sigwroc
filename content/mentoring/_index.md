@@ -36,7 +36,7 @@ sections:
       * Have small breakout rooms with mentors to chat
 
 
-      Use this [Google Survey]([https://docs.google.com/forms/​d/e/1FAIpQLSegMdHA43LHMkIj-​y4hPgsm8UGnqLp9NAUeRu9k1bPQyR7​lmw/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSegMdHA43LHMkIj-y4hPgsm8UGnqLp9NAUeRu9k1bPQyR7lmw/viewform?usp=sf_link)) to sign up to receive the Zoom link for these meetings.
+      Use this [Google Survey](https://forms.gle/58DXhZyn1tQCDRhZA) (https://forms.gle/58DXhZyn1tQCDRhZA) to sign up to receive the Zoom link for these meetings.
     heading: WROC & Write! Meetups
   - heading: Find a WROC Mentor
     text: >-
