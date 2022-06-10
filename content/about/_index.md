@@ -56,17 +56,14 @@ committee_list:
     imageUrl: /uploads/young_sarah_profile.jpeg
     alttext: Profile of Sarah Young.
     title: Lecturer
-  - bio: "Alfred Owusu-Ansah (he/him/his) is a PhD student at the Department of
-      Humanities at Michigan Technological University. His PhD research seeks to
-      argue for a broader understanding of literacy-in-action by advancing a
-      posthuman pedagogy for writing and programming. "
-    name: Alfred Owusu-Ansah
-    title: Ph.D. Student
-    institution: Michigan Technological University
+  - bio: "Elena Kalodner-Martin's research is at the intersection of the rhetoric of health and medicine, technical communication, and feminist studies. Her dissertation theorizes patient narratives on social media as a form of technical and technological expertise."
+    name: Elena Kalodner-Martin
+    title: Ph.D. Candidate
+    institution: University of Massachusetts Amherst
     status: Current
     role: Graduate Student Representative
-    imageUrl: /uploads/owusu-ansah-alfred_profile.jpeg
-    alttext: Profile of Alfred Owusu-Ansah.
+    imageUrl: /uploads/ekalodnermar_profile.jpeg
+    alttext: Profile of Elena Kalodner-Martin.
   - name: Antonio Byrd
     bio: Dr. Antonio Byrd studies how Black people access and learn computer
       programming to address racial and economic inequality in their
@@ -75,6 +72,17 @@ committee_list:
     title: Assistant Professor
     institution: University of Missouri – Kansas City
     role: Co-Chair
+  - bio: "Alfred Owusu-Ansah (he/him/his) is a PhD student at the Department of
+      Humanities at Michigan Technological University. His PhD research seeks to
+      argue for a broader understanding of literacy-in-action by advancing a
+      posthuman pedagogy for writing and programming. "
+    name: Alfred Owusu-Ansah
+    title: Ph.D. Student
+    institution: Michigan Technological University
+    status: Former
+    role: Graduate Student Representative
+    imageUrl: /uploads/owusu-ansah-alfred_profile.jpeg
+    alttext: Profile of Alfred Owusu-Ansah.
 cccc_meetings:
   - heading: 2017 CCCCs Meeting
     text: Our innaugural meeting held in Portland, OR! We set the foundations of the
