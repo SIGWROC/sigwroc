@@ -13,8 +13,8 @@ sections:
       To help with this persistent issue, we are implementing the following programs below.
     heading: A Goal to Support Each Other
   - text: >-
-      **When**: April 1, May 6, June 3, July 1 (first Fridays of the month),
-      11am-12:30pm ET
+      **When (Updated)**: April 1, May 6, June 3, July 1, August 5, September 2,
+      October 7, November 4, December 2, 11am-12:30pm ET
 
 
       **Where**: Zoom link to come!
