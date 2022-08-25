@@ -1,0 +1,186 @@
+<div class="card_container mw8 center bg-grey-1">
+
+  {{ range first 1 (where .Site.Pages "Params.workshopstatus" "upcoming") }}
+
+  <h3 class="f3 b lh-title mb1">Upcoming Workshops</h3>
+  <ul class="mhn1-ns card_container--wroc-project">
+    <li class="card--wroc-project">
+      <div class="img">
+        <figure>
+          <img src="{{ .Params.card_image }}" alt="{{ .Params.card_alt_txt }}" />
+          {{if .Params.card_caption }}
+          <figcaption>
+            <small>src: {{ .Params.card_caption }}</small>
+          </figcaption>
+          {{ end }}
+        </figure>
+      </div>
+      <h3>{{ .Params.title }}</h3>
+      <p>
+        <strong>Leaders</strong>: {{ .Params.leaders }}
+      </p>
+      <p>
+        <strong>Description</strong>: {{ .Params.description }}
+      </p>
+      {{if .Params.flyer_req_url }}
+      <p><strong>Flyer and requirements</strong>: <a href="{{ .Params.flyer_req_url  }}">{{ .Params.flyer_req_title }}</a></p>
+      {{ end }}
+      {{ if .Params.wrocshop_date }}
+      <p>
+        <strong>When</strong>: {{ .Params.wrocshop_date }} at {{ .Params.wrocshop_time }} {{ .Params.wrocshop_timezone }}
+      </p>
+      {{ end }}
+      {{ if .Params.location }}
+      <p>
+        <strong>Location</strong>: {{ if .Params.location_url }}<a href="{{ .Params.location_url }}" target="_blank" rel="noopener">{{ .Params.location }}</a>.{{ else }}{{ .Params.location }}.{{ end }}
+      </p>
+      {{ end }}
+      {{ if .Params.tags }}
+        <p class="proj-tags"><strong>tags</strong>:
+          {{ range (.GetTerms "tags") }}
+            <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{ end }}
+        </p>
+      {{ end }}
+      {{ if .Params.fields }}
+        <p class="proj-tags"><strong>fields</strong>:
+          {{ range (.GetTerms "fields") }}
+            <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{ end }}
+        </p>
+      {{ end }}
+    </li>
+    {{ range after 1 (where .Site.Pages "Params.workshopstatus" "upcoming") }}
+    <li class="card--wroc-project">
+      <div class="img">
+        <img src="{{ .Params.card_image }}" alt="{{ .Params.card_alt_txt }}" />
+      </div>
+      <h3>{{ .Params.title }}</h3>
+      <p>
+        <strong>Leaders</strong>: {{ .Params.leaders }}
+      </p>
+      <p>
+        <strong>Description</strong>: {{ .Params.description }}
+      </p>
+      {{if .Params.flyer_req_url }}
+      <p><strong>Flyer and requirements</strong>: <a href="{{ .Params.flyer_req_url  }}">{{ .Params.flyer_req_title }}</a></p>
+      {{ end }}
+      {{ if .Params.wrocshop_date }}
+      <p>
+        <strong>When</strong>: {{ .Params.wrocshop_date }} at {{ .Params.wrocshop_time }} {{ .Params.wrocshop_timezone }}
+      </p>
+      {{ end }}
+      {{ if .Params.location }}
+      <p>
+        <strong>Location</strong>: {{ if .Params.location_url }}<a href="{{ .Params.location_url }}" target="_blank" rel="noopener">{{ .Params.location }}</a>.{{ else }}{{ .Params.location }}.{{ end }}
+      </p>
+      {{ end }}
+      {{ if .Params.tags }}
+        <p class="proj-tags"><strong>tags</strong>:
+          {{ range (.GetTerms "tags") }}
+            <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{ end }}
+        </p>
+      {{ end }}
+      {{ if .Params.fields }}
+        <p class="proj-tags"><strong>fields</strong>:
+          {{ range (.GetTerms "fields") }}
+            <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{ end }}
+        </p>
+      {{ end }}
+    </li>
+    {{ end }}
+  </ul>
+    
+  {{ end }}
+
+  {{ range first 1 (where .Site.Pages "Params.workshopstatus" "past") }}
+
+  <h3 class="f3 b lh-title mb1">Past Workshops</h3>
+  <ul class="mhn1-ns card_container--wroc-project">
+    <li class="card--wroc-project">
+      <div class="img">
+        <img src="{{ .Params.card_image }}" alt="{{ .Params.card_alt_txt }}" />
+      </div>
+      <h3>{{ .Params.title }}</h3>
+      <p>
+        <strong>Leaders</strong>: {{ .Params.leaders }}
+      </p>
+      <p>
+        <strong>Description</strong>: {{ .Params.description }}
+      </p>
+      {{if .Params.flyer_req_url }}
+      <p><strong>Flyer and requirements</strong>: <a href="{{ .Params.flyer_req_url  }}">{{ .Params.flyer_req_title }}</a></p>
+      {{ end }}
+      {{ if .Params.wrocshop_date }}
+      <p>
+        <strong>When</strong>: {{ .Params.wrocshop_date }} at {{ .Params.wrocshop_time }} {{ .Params.wrocshop_timezone }}
+      </p>
+      {{ end }}
+      {{ if .Params.location }}
+      <p>
+        <strong>Location</strong>: {{ if .Params.location_url }}<a href="{{ .Params.location_url }}" target="_blank" rel="noopener">{{ .Params.location }}</a>.{{ else }}{{ .Params.location }}.{{ end }}
+      </p>
+      {{ end }}
+      {{ if .Params.tags }}
+        <p class="proj-tags"><strong>tags</strong>:
+          {{ range (.GetTerms "tags") }}
+            <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{ end }}
+        </p>
+      {{ end }}
+      {{ if .Params.fields }}
+        <p class="proj-tags"><strong>fields</strong>:
+          {{ range (.GetTerms "fields") }}
+            <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{ end }}
+        </p>
+      {{ end }}
+    </li>
+    {{ range after 1 (where .Site.Pages "Params.workshopstatus" "past") }}
+    <li class="card--wroc-project">
+      <div class="img">
+        <img src="{{ .Params.card_image }}" alt="{{ .Params.card_alt_txt }}" />
+      </div>
+      <h3>{{ .Params.title }}</h3>
+      <p>
+        <strong>Leaders</strong>: {{ .Params.leaders }}
+      </p>
+      <p>
+        <strong>Description</strong>: {{ .Params.description }}
+      </p>
+      {{if .Params.flyer_req_url }}
+      <p><strong>Flyer and requirements</strong>: <a href="{{ .Params.flyer_req_url  }}">{{ .Params.flyer_req_title }}</a></p>
+      {{ end }}
+      {{ if .Params.wrocshop_date }}
+      <p>
+        <strong>When</strong>: {{ .Params.wrocshop_date }} at {{ .Params.wrocshop_time }} {{ .Params.wrocshop_timezone }}
+      </p>
+      {{ end }}
+      {{ if .Params.location }}
+      <p>
+        <strong>Location</strong>: {{ if .Params.location_url }}<a href="{{ .Params.location_url }}" target="_blank" rel="noopener">{{ .Params.location }}</a>.{{ else }}{{ .Params.location }}.{{ end }}
+      </p>
+      {{ end }}
+      {{ if .Params.tags }}
+        <p class="proj-tags"><strong>tags</strong>:
+          {{ range (.GetTerms "tags") }}
+            <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{ end }}
+        </p>
+      {{ end }}
+      {{ if .Params.fields }}
+        <p class="proj-tags"><strong>fields</strong>:
+          {{ range (.GetTerms "fields") }}
+            <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{ end }}
+        </p>
+      {{ end }}
+    </li>
+    {{ end }}
+  </ul>
+    
+  {{ end }}
+
+</div>
