@@ -44,30 +44,34 @@ collections: # A list of collections the CMS should be able to edit
     folder: "content/wrocshops" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - label: WROCshops
-        name: wrocshops
+      - label: WROCshops Sections
+        name: wrocshops_sections
         widget: list
         fields:
           - {label: Heading, name: heading, widget: string}
           - {label: "Section Copy", name: text, widget: markdown}
           - {label: Image, name: imageUrl, widget: image, required: false}
           - {label: "Image Alt Text", name: alttext, widget: text, required: false}
-      - {label: 'Workshop Status', name: 'workshopstatus', widget: 'select', options: ['upcoming', 'past'], required: true}
-      - {label: "Leaders", name: "leaders", widget: "string", required: false}
-      - {label: "Title", name: "title", widget: "string", required: false}
-      - {label: "Date", name: "wrocshop_date", widget: "date", required: false}
-      - {label: "Time", name: "wrocshop_time", widget: "string", required: false}
-      - {label: "Timezone", name: "wrocshop_timezone", widget: "string", required: false}
-      - {label: Card Image, name: card_image, widget: image, required: false, assetDir: "uploads/wrocshops", media_folder: "../uploads/wrocshops", public_folder: "../uploads/wrocshops", config: {multiple: false}}
-      - {label: "Card Visible Caption", name: "card_caption", widget: "string", required: false}
-      - {label: "Card Image Alt Text", name: "card_alt_txt", widget: "string", required: false}
-      - {label: "Description", name: "description", widget: "markdown", required: false}
-      - {label: "Location", name: "location", widget: "string", required: false}
-      - {label: "Location URL", name: "location_url", widget: "string", required: false}
-      - {label: "Flyer Title", name: "flyer_req_title", widget: "string", required: false}
-      - {label: "Flyer Upload", name: "flyer_req_url", widget: "file", required: false, assetDir: "uploads/wrocshops", media_folder: "../uploads/wrocshops", public_folder: "../uploads/wrocshops", config: {multiple: false}}
-      - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Fields",name: "fields", widget: "list"}
+      - label: WROCshop Announcement Cards
+        name: wrocshops_cards
+        widget: list
+        fields:
+          - {label: 'Workshop Status', name: 'workshopstatus', widget: 'select', options: ['upcoming', 'past'], required: true}
+          - {label: "Leaders", name: "leaders", widget: "string", required: false}
+          - {label: "Title", name: "title", widget: "string", required: false}
+          - {label: "Date", name: "wrocshop_date", widget: "date", required: false}
+          - {label: "Time", name: "wrocshop_time", widget: "string", required: false}
+          - {label: "Timezone", name: "wrocshop_timezone", widget: "string", required: false}
+          - {label: Card Image, name: card_image, widget: image, required: false, assetDir: "uploads/wrocshops", media_folder: "../uploads/wrocshops", public_folder: "../uploads/wrocshops", config: {multiple: false}}
+          - {label: "Card Visible Caption", name: "card_caption", widget: "string", required: false}
+          - {label: "Card Image Alt Text", name: "card_alt_txt", widget: "string", required: false}
+          - {label: "Description", name: "description", widget: "markdown", required: false}
+          - {label: "Location", name: "location", widget: "string", required: false}
+          - {label: "Location URL", name: "location_url", widget: "string", required: false}
+          - {label: "Flyer Title", name: "flyer_req_title", widget: "string", required: false}
+          - {label: "Flyer Upload", name: "flyer_req_url", widget: "file", required: false, assetDir: "uploads/wrocshops", media_folder: "../uploads/wrocshops", public_folder: "../uploads/wrocshops", config: {multiple: false}}
+          - {label: "Tags", name: "tags", widget: "list"}
+          - {label: "Fields",name: "fields", widget: "list"}
   - name: "projects" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "WROC Projects" # Used in the UI, ie.: "New Post"
     folder: "content/projects" # The path to the folder where the documents are stored
