@@ -32,9 +32,13 @@
       {{ end }}
       {{ if .Params.location }}
       <p>
-        <strong>Location</strong>: {{ if .Params.location_url }}<a href="{{ .Params.location_url }}" target="_blank" rel="noopener">{{ .Params.location }}</a>.{{ else }}{{ .Params.location }}.{{ end }}
+        <strong>Location</strong>: {{ .Params.location }}
       </p>
       {{ end }}
+      <p>
+        <strong>Sign-Up</strong>: {{ if .Params.signup_url }}<a href="{{ .Params.signup_url }}" target="_blank" rel="noopener">Signup Survey</a>.
+      </p>
+      
       {{ if .Params.tags }}
         <p class="proj-tags"><strong>tags</strong>:
           {{ range (.GetTerms "tags") }}
@@ -72,9 +76,13 @@
       {{ end }}
       {{ if .Params.location }}
       <p>
-        <strong>Location</strong>: {{ if .Params.location_url }}<a href="{{ .Params.location_url }}" target="_blank" rel="noopener">{{ .Params.location }}</a>.{{ else }}{{ .Params.location }}.{{ end }}
+        <strong>Location</strong>: {{ .Params.location }}
       </p>
       {{ end }}
+      <p>
+        <strong>Sign-Up</strong>: {{ if .Params.signup_url }}<a href="{{ .Params.signup_url }}" target="_blank" rel="noopener">Signup Survey</a>.
+      </p>
+      
       {{ if .Params.tags }}
         <p class="proj-tags"><strong>tags</strong>:
           {{ range (.GetTerms "tags") }}
@@ -120,9 +128,13 @@
       {{ end }}
       {{ if .Params.location }}
       <p>
-        <strong>Location</strong>: {{ if .Params.location_url }}<a href="{{ .Params.location_url }}" target="_blank" rel="noopener">{{ .Params.location }}</a>.{{ else }}{{ .Params.location }}.{{ end }}
+        <strong>Location</strong>: {{ .Params.location }}
       </p>
       {{ end }}
+      <p>
+        <strong>Sign-Up</strong>: {{ if .Params.signup_url }}<a href="{{ .Params.signup_url }}" target="_blank" rel="noopener">Signup Survey</a>.
+      </p>
+      
       {{ if .Params.tags }}
         <p class="proj-tags"><strong>tags</strong>:
           {{ range (.GetTerms "tags") }}
@@ -160,9 +172,13 @@
       {{ end }}
       {{ if .Params.location }}
       <p>
-        <strong>Location</strong>: {{ if .Params.location_url }}<a href="{{ .Params.location_url }}" target="_blank" rel="noopener">{{ .Params.location }}</a>.{{ else }}{{ .Params.location }}.{{ end }}
+        <strong>Location</strong>: {{ .Params.location }}
       </p>
       {{ end }}
+      <p>
+        <strong>Sign-Up</strong>: {{ if .Params.signup_url }}<a href="{{ .Params.signup_url }}" target="_blank" rel="noopener">Signup Survey</a>.
+      </p>
+      
       {{ if .Params.tags }}
         <p class="proj-tags"><strong>tags</strong>:
           {{ range (.GetTerms "tags") }}

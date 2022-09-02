@@ -66,7 +66,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Card Image Alt Text", name: "card_alt_txt", widget: "string", required: false}
       - {label: "Description", name: "description", widget: "markdown", required: false}
       - {label: "Location", name: "location", widget: "string", required: false}
-      - {label: "Location URL", name: "location_url", widget: "string", required: false}
+      - {label: "Survey Signup URL", name: "signup_url", widget: "string", required: false}
       - {label: "Flyer Title", name: "flyer_req_title", widget: "string", required: false}
       - {label: "Flyer Upload", name: "flyer_req_url", widget: "file", required: false, assetDir: "uploads/wrocshops", media_folder: "../uploads/wrocshops", public_folder: "../uploads/wrocshops", config: {multiple: false}}
       - {label: "Tags", name: "tags", widget: "list"}
