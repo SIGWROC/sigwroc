@@ -2,7 +2,7 @@
 workshopstatus: upcoming
 leaders: Chris Lindgren, Virginia Tech
 title: Webscraping with Python! - Part 1
-wrocshop_date: November 4, 2022
+wrocshop_date: November 11, 2022
 wrocshop_time: 1:00pm - 3:00pm
 wrocshop_timezone: EST
 card_image: /uploads/wrocshops/web-scraping.jpeg
