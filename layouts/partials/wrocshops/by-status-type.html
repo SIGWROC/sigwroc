@@ -35,10 +35,11 @@
         <strong>Location</strong>: {{ .Params.location }}
       </p>
       {{ end }}
+      {{ if .Params.signup_url }}
       <p>
-        <strong>Sign-Up</strong>: {{ if .Params.signup_url }}<a href="{{ .Params.signup_url }}" target="_blank" rel="noopener">Signup Survey</a>.
+        <strong>Sign-Up</strong>: <a href="{{ .Params.signup_url }}" target="_blank" rel="noopener">Signup Survey</a>.
       </p>
-      
+      {{ end }}
       {{ if .Params.tags }}
         <p class="proj-tags"><strong>tags</strong>:
           {{ range (.GetTerms "tags") }}
@@ -79,10 +80,11 @@
         <strong>Location</strong>: {{ .Params.location }}
       </p>
       {{ end }}
+      {{ if .Params.signup_url }}
       <p>
-        <strong>Sign-Up</strong>: {{ if .Params.signup_url }}<a href="{{ .Params.signup_url }}" target="_blank" rel="noopener">Signup Survey</a>.
+        <strong>Sign-Up</strong>: <a href="{{ .Params.signup_url }}" target="_blank" rel="noopener">Signup Survey</a>.
       </p>
-      
+      {{ end }}
       {{ if .Params.tags }}
         <p class="proj-tags"><strong>tags</strong>:
           {{ range (.GetTerms "tags") }}
@@ -131,10 +133,11 @@
         <strong>Location</strong>: {{ .Params.location }}
       </p>
       {{ end }}
+      {{ if .Params.signup_url }}
       <p>
-        <strong>Sign-Up</strong>: {{ if .Params.signup_url }}<a href="{{ .Params.signup_url }}" target="_blank" rel="noopener">Signup Survey</a>.
+        <strong>Sign-Up</strong>: <a href="{{ .Params.signup_url }}" target="_blank" rel="noopener">Signup Survey</a>.
       </p>
-      
+      {{ end }}
       {{ if .Params.tags }}
         <p class="proj-tags"><strong>tags</strong>:
           {{ range (.GetTerms "tags") }}
@@ -175,10 +178,11 @@
         <strong>Location</strong>: {{ .Params.location }}
       </p>
       {{ end }}
+      {{ if .Params.signup_url }}
       <p>
-        <strong>Sign-Up</strong>: {{ if .Params.signup_url }}<a href="{{ .Params.signup_url }}" target="_blank" rel="noopener">Signup Survey</a>.
+        <strong>Sign-Up</strong>: <a href="{{ .Params.signup_url }}" target="_blank" rel="noopener">Signup Survey</a>.
       </p>
-      
+      {{ end }}
       {{ if .Params.tags }}
         <p class="proj-tags"><strong>tags</strong>:
           {{ range (.GetTerms "tags") }}
