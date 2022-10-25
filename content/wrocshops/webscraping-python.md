@@ -8,7 +8,7 @@ wrocshop_timezone: EST
 card_image: /uploads/wrocshops/web-scraping.jpeg
 card_caption: CC BY-NC-SA, Bibhuranjan, technofaq.org
 card_alt_txt: Test alt text
-description: "This first part covers the ground work for researchers invested in learning and pplying scraping as a method for data collection. Topics include: What is scraping? Why is it an important method? Legalities and Ethics. Environment setup."
+description: "This first part covers the ground work for researchers invested in applying scraping as a method for data collection. Topics include: What is scraping? Why is it an important method? Legalities and Ethics. Environment setup."
 location: Zoom
 flyer_req_title: Webscraping with Python!
 flyer_req_url: /uploads/wrocshops/wroc_2022_webscraping_python_1.pdf
