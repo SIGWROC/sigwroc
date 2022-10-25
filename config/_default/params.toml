@@ -7,9 +7,9 @@ titleAddition = "Writing and Rhetorics of Code"
 description = "Hyas is a Hugo starter helping you build modern websites that are secure, fast, and SEO-ready — by default."
 
 ## Open Graph
-images = ["hyas.png"]
+images = ["logo.png"]
 ogLocale = "en_US"
-titleHome = "Hyas Hugo Starter"
+titleHome = "SIG on the Writing and Rhetorics of Code"
 
 ## Twitter Cards
 twitterSite = "@sigwroc"
@@ -24,15 +24,15 @@ schemaAuthorTwitter = "https://twitter.com/lndgrn"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
 schemaAuthorGitHub = "https://github.com/lingeringcode"
 schemaLocale = "en-US"
-schemaLogo = "logo-hyas.png"
+schemaLogo = "logo.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "hyas.png"
+schemaImage = "logo.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/gethyas"
+schemaTwitter = "https://twitter.com/lndgrn"
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/hyas"
+schemaGitHub = "https://github.com/sigwroc"
 
 ## Chrome Browser
 themeColor = "#fff"

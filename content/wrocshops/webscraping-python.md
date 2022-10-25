@@ -7,7 +7,7 @@ wrocshop_time: 1:00pm - 3:00pm
 wrocshop_timezone: EST
 card_image: /uploads/wrocshops/web-scraping.jpeg
 card_caption: CC BY-NC-SA, Bibhuranjan, technofaq.org
-card_alt_txt: Test alt text
+card_alt_txt: Illustrated computer with a wireframed source code file open within a code editor.
 description: "This first part covers the ground work for researchers invested in applying scraping as a method for data collection. Topics include: What is scraping? Why is it an important method? Legalities and Ethics. Environment setup."
 location: Zoom
 flyer_req_title: Webscraping with Python!
