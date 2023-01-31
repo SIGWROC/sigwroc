@@ -19,7 +19,7 @@ feature:
     If you're interested in joining the WROC mailing list for updates, please contact the Communications Officer: Cara Marta Messina at cmessina@jsu.edu
 
 
-    **A﻿nnual SIGWROC Meeting, 2023**
+    ## **A﻿nnual SIGWROC Meeting, 2023**
 
 
     SIGWROC will be hosting its annual meeting at the 2023 Conference on College Composition and Communication in Chicago!
