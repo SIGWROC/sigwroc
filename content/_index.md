@@ -25,11 +25,11 @@ feature:
     SIGWROC will be hosting its annual meeting at the 2023 Conference on College Composition and Communication in Chicago!
 
 
-    **Title**: Writing and Rhetorics of Code (SIGWROC)—Doing Hope (FSIG.13)
+    * **Title**: Writing and Rhetorics of Code (SIGWROC)—Doing Hope (FSIG.13)
 
-    **Date & Time**: Friday, 2/17 from 3:30–4:30 p.m
+    * **Date & Time**: Friday, 2/17 from 3:30–4:30 p.m
 
-    **Location**: Room 4Q (4th floor)
+    * **Location**: Room 4Q (4th floor)
 
 
     During our annual meeting, we will be brainstorming a "Doing Hope" mission statement and planning for upcoming SIGWROC elections for the Communications Officer and At-Large Member positions.
