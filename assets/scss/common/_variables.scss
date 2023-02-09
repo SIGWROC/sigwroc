@@ -34,7 +34,7 @@ $variable-prefix: bs-;
 // Font, line-height, and color for body text, headings, and more.
 
 // stylelint-disable value-keyword-case
-$font-family-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-family-sans-serif: "Source Sans Pro", system-ui, -apple-system, Arial;
 $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 // stylelint-enable value-keyword-case
 $font-family-base: var(--#{$variable-prefix}font-sans-serif);
@@ -104,12 +104,15 @@ $stretched-link-z-index: 1;
 	--black: rgba(43, 37, 35, 1);
 
 	/* Typography */
-	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	--font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	--bs-body-font-family: Source Sans Pro,, sans-serif;
+	--serifed-font-family: Oswald, serif;
 	--line-height: 1.5;
 
 	--font-size: 18px;
 	--font-size-m: 20px;
 	--font-size-l: 22px;
+	--font-size-xl: 3rem;
 
 	--body-font-weight: 400;
 	--bold-font-weight: 700;
