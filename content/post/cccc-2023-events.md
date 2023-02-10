@@ -53,9 +53,22 @@ This panel offers critical strategies for advancing institutional change across 
 
 <hr>
 
-### J.25 Computing between Languages and Mathematics:
+### F.11 Activating Hope with Rhetorical Action: A Grassroots Antiracist Workshop, Humor and Disgust on TikTok, and Data Literacy through Digital Power Projects
 
-Technical and Professional Writing of Grace Murray Hopper and Winifred “Tim” Asprey” Centering the 1960s friendship of Grace Murray Hopper and Winifred “Tim” Asprey, this paper reframes public advocacy for computers as technical and professional communication. Disagreeing about the value of formal writing instruction, their work is approached not only through public understandings of science—especially, computer science—but also public understandings of writing.
+“One step forward, two steps back” is a disheartening cliché, but when social and political progress is stifled by doubling down to uphold the status quo, operating from hope can feel futile without taking action. This panel explores how particular online and offline communities enact hope through an antiracist narrative workshop, humor, and disgust on TikTok,
+as well as building data literacy.
+
+- **Where**: Blvd. A (2nd floor)
+- **Speakers**:
+    - Hillary Coenen, Midwestern State University
+    - Desiree Dighton, East Carolina University
+    - Michael Faris, Texas Tech University
+
+<hr>
+
+### J.25 Computing between Languages and Mathematics: Technical and Professional Writing of Grace Murray Hopper and Winifred “Tim” Asprey” 
+
+Centering the 1960s friendship of Grace Murray Hopper and Winifred “Tim” Asprey, this paper reframes public advocacy for computers as technical and professional communication. Disagreeing about the value of formal writing instruction, their work is approached not only through public understandings of science—especially, computer science—but also public understandings of writing.
 
 - **Where**: Lake Huron (8th floor)
 - **Speaker**: Andrew Fiss, Michigan Technological University
