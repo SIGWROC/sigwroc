@@ -4,7 +4,7 @@
 title = "SIGWROC"
 titleSeparator = "-"
 titleAddition = "Writing and Rhetorics of Code"
-description = "Hyas is a Hugo starter helping you build modern websites that are secure, fast, and SEO-ready — by default."
+description = "SIGWROC is a special interest group for scholars invested in learning and teaching humanities-driven approaches to code, data, and software."
 
 ## Open Graph
 images = ["logo.png"]
@@ -49,7 +49,7 @@ smallLimit = "320"
 footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://gethyas.com/\">Hyas</a>"
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright (c) SIGWROC"
 
 # Alert
 alert = true

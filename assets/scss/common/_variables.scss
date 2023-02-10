@@ -11,6 +11,11 @@ $gray-light: #fafbfc;
 $blue-dark: #038;
 $primary: $blue;
 
+// Positions
+.relative {position: relative;}
+.absolute {position: absolute;}
+.sticky {position: sticky;}
+
 // Options
 //
 // Quickly modify global styling by enabling or disabling optional features.
@@ -34,6 +39,7 @@ $variable-prefix: bs-;
 // Font, line-height, and color for body text, headings, and more.
 
 // stylelint-disable value-keyword-case
+$font-family-serif: "Oswald", Helvetica, serif;
 $font-family-sans-serif: "Source Sans Pro", system-ui, -apple-system, Arial;
 $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 // stylelint-enable value-keyword-case
@@ -46,7 +52,7 @@ $font-size-md: $font-size-base * 1.125;
 $font-size-sm: $font-size-base * 0.875;
 $font-weight-bold: 500;
 $line-height-base: 1.5;
-$headings-font-family: "Inter", $font-family-sans-serif;
+$headings-font-family: $font-family-serif;
 $headings-font-weight: 500;
 $headings-line-height: 1.3;
 
