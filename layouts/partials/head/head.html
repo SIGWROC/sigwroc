@@ -7,4 +7,12 @@
   {{ block "head/seo" . }}{{ partial "head/seo.html" . }}{{ end }}
   {{ block "head/favicons" . }}{{ partial "head/favicons.html" . }}{{ end }}
   {{ block "head/script-header" . }}{{ partial "head/script-header.html" . }}{{ end }}
+  <!-- Scripts --> 
+  <script type="text/javascript">
+    if (typeof jQuery == 'undefined')
+      document.write(unescape("%3Cscript src='js/jquery-1.9.js'" + 
+                                "type='text/javascript'%3E%3C/script%3E"))
+  </script>
+  <script src="/js/jquery.min.js" type="text/javascript"></script>
+  <script type="text/javascript" language="javascript" src="/js/trunk.js"></script>
 </head>

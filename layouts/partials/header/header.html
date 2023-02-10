@@ -1,26 +1,26 @@
 <!-- NAV -->
-<div class="nav__main_nav ms-auto">
-  <div class="header__logo">
-    <h1 class="logo_text">
-      <a class="navbar-brand monospace db" href="{{ "/" | absURL }}">{{ .Site.Params.Title }}</a>
-    </h1>
-  </div>
-  {{ range .Site.Menus.main }}
-  <nav class="overflow-x-scroll">
-    <!-- Primary Nav -->
-    <ul class="flex db b grey-3">
-      <li><a href="/about" class="pa3 no-underline db">About</a></li>
-      <!-- <li><a href="/teaching" class="pa3 no-underline db">Teaching</a></li> -->
-      <li><a href="/bibliography" class="pa3 no-underline db">Bibliography</a></li>
-      <li><a href="/projects" class="pa3 no-underline db">Projects</a></li>
-      <li><a href="/mentoring" class="pa3 no-underline db">Mentoring</a></li>
-      <li><a href="/wrocshops" class="pa3 no-underline db">WROCshops</a></li>
-      <li><a href="/post" class="pa3 no-underline db">Blog</a></li>
-      <!-- <li><a href="/contact" class="pa3 no-underline db">Contact</a></li> -->
-    </ul>
-  </nav>
-{{ end }}
-</div>
+<header class="nav__header slide close">     <!--	Add "slideRight" class to items that move right when viewing Nav Drawer  -->
+  <ul id="navToggle" class="burger slide close">    <!--	Add "slideRight" class to items that move right when viewing Nav Drawer  -->
+    <li></li><li></li><li></li>
+  </ul>
+  <h1 class="logo_text">
+    <a class="navbar-brand db" href="{{ "/" | absURL }}">{{ .Site.Params.Title }}</a>
+  </h1>
+</header>
+
+<nav class="nav__main_menu slide close">
+  <ul>
+    <li><a href="/about" class="pa3 no-underline db">About</a></li>
+    <!-- <li><a href="/teaching" class="pa3 no-underline db">Teaching</a></li> -->
+    <li><a href="/bibliography" class="pa3 no-underline db">Bibliography</a></li>
+    <li><a href="/projects" class="pa3 no-underline db">Projects</a></li>
+    <li><a href="/mentoring" class="pa3 no-underline db">Mentoring</a></li>
+    <li><a href="/wrocshops" class="pa3 no-underline db">WROCshops</a></li>
+    <li><a href="/post" class="pa3 no-underline db">Blog</a></li>
+    <!-- <li><a href="/contact" class="pa3 no-underline db">Contact</a></li> -->
+  </ul>
+</nav>
+
 {{ define "main" }}
   
 {{ end }}

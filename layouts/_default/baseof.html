@@ -3,14 +3,17 @@
   {{ partial "head/head.html" . }}
   {{- partial "head/body-class.html" . -}}
   <body class="{{ delimit (.Scratch.Get "class") " " }}">
-    {{ partial "header/header.html" . }}
-    <div class="main__container" role="document">
-      <div class="content">
-        {{ block "main" . }}{{ end }}
+    <div class="main_menu_container">
+      {{ partial "header/header.html" . }}
+      <div class="main__container slide" role="document">
+        <div class="content">
+          {{ block "main" . }}{{ end }}
+        </div>
       </div>
+      {{ block "sidebar-footer" . }}{{ end }}
+      {{ partial "footer/footer.html" . }}
     </div>
-    {{ block "sidebar-footer" . }}{{ end }}
-    {{ partial "footer/footer.html" . }}
+
     {{ partial "footer/script-footer.html" . }}
     <script>
       if (window.netlifyIdentity) {

@@ -21,32 +21,32 @@ p.meta a:focus {
 }
 
 // PRIMARY NAVIGATION
-.nav__main_nav {
-  display: flex;
-  justify-content: space-between;
-}
-.nav__main_nav nav ul {
-  list-style-type: none;
-  display: flex;
-  margin-block-start: 0;
-  margin-block-end: 0;
-  margin-inline-start: 0;
-  margin-inline-end: 0;
-  padding-inline-start: 0;
-}
+// .nav__main_nav {
+//   display: flex;
+//   justify-content: space-between;
+// }
+// .nav__main_nav nav ul {
+//   list-style-type: none;
+//   display: flex;
+//   margin-block-start: 0;
+//   margin-block-end: 0;
+//   margin-inline-start: 0;
+//   margin-inline-end: 0;
+//   padding-inline-start: 0;
+// }
 
-.nav__main_nav nav li {
-  padding: 1rem;
-}
-.nav__main_nav nav li:hover {
-  border-bottom: #ff7d4d;
-}
+// .nav__main_nav nav li {
+//   padding: 1rem;
+// }
+// .nav__main_nav nav li:hover {
+//   border-bottom: #ff7d4d;
+// }
 
-.nav__main_nav nav a {
-  color: #fe4300;
-  text-decoration: dotted;
-  text-align: center;
-}
+// .nav__main_nav nav a {
+//   color: #fe4300;
+//   text-decoration: dotted;
+//   text-align: center;
+// }
 
 // BIBLIOGRAPHY PAGE
 ul.cite {
@@ -177,27 +177,27 @@ p.committee__title {
 
 // MEDIA QUERIES
 @media screen and (max-width: 610px) {
-  .nav__main_nav,
+  // .nav__main_nav,
   .card--mentors,
   .card--committee {
     flex-direction: column;
   }
-  .nav__main_nav nav ul {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  .nav__main_nav nav li {
-    padding: 0;
-    width: -webkit-fill-available;
-    text-align: center;
-    border-bottom: 1px solid #fd4201;
-  }
-  .nav__main_nav nav a:hover {
-    background: #fe4300;
-    color: white;
-    border: #ffb093 solid 2px;
-  }
+  // .nav__main_nav nav ul {
+  //   display: flex;
+  //   flex-direction: column;
+  //   align-items: center;
+  // }
+  // .nav__main_nav nav li {
+  //   padding: 0;
+  //   width: -webkit-fill-available;
+  //   text-align: center;
+  //   border-bottom: 1px solid #fd4201;
+  // }
+  // .nav__main_nav nav a:hover {
+  //   background: #fe4300;
+  //   color: white;
+  //   border: #ffb093 solid 2px;
+  // }
   .card_container--wroc-project,
   .card_container--wroc-meeting,
   .card_container--mentors,
