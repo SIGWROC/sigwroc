@@ -19,7 +19,7 @@ Our meeting will use our time together to develop a statement of shared and foun
 
 ## SIGWROC-Related Sessions at CCCC
 
-We put together a list of CCCC sessions that are related to WROC. Please contact Chris Lindgren (lindgren@vt.edu), if you’d like your panel added to the list.
+We put together a list of CCCC sessions that are related to WROC. Please contact either Chris Lindgren (lindgren@vt.edu) or Cara Marta Messina (cmessina@jsu.edu), if you’d like your panel added to the list.
 
 ### J.36 Troublemakers in Transdisciplinary Coding Communities
 
