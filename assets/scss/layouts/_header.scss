@@ -63,10 +63,9 @@ h1.logo_text a {
   }
   h1.logo_text {
     padding: 0;
-    // width: 100%;
   }
   h1.logo_text a:hover {
-    color: white;
+    color: white !important;
     transition: 0.3s;
   }
 }
@@ -172,10 +171,6 @@ a.navbar-brand {
 }
 .nav__main_menu li a.logo {
 	display: none;
-}
-.nav__main_menu li a.active {
-	// color: #fff;
-	// background-color: #141e23;
 }
 .nav__main_menu li a:hover {
 	color: #fe4300;
