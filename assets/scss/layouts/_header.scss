@@ -46,6 +46,11 @@ h1.logo_text a {
   color: #fe4300;
   transition: 0.3s;
 }
+h1.logo_text a:hover,
+h1.logo_text a:focus {
+  color: white;
+  transition: 0.3s;
+}
 @media screen and (max-width: 610px) {
   .navbar-brand {
     padding-top: 0;
