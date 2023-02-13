@@ -3,7 +3,7 @@ title: SIGWROC at 2023 4Cs - Fri., 2/17 @ 3:30–4:30pm!
 date: 2023-02-09T14:00:00.868Z
 description: >-
   Doing Hope with SIGWROC at CCCC 2023!
-image: /uploads/4c_logo.gif
+image: /uploads/posts/cccc-2023-banner.png
 ---
 
 Checkout SIGWROC-related events and panels at the 2023 CCCC conference next week!
@@ -22,14 +22,6 @@ Our meeting will use our time together to develop a statement of shared and foun
 We put together a list of CCCC sessions that are related to WROC. Please contact either Chris Lindgren (lindgren@vt.edu) or Cara Marta Messina (cmessina@jsu.edu), if you’d like your panel added to the list.
 
 <hr>
-
-### J.23 Introduction to Open Fuego and Basic Coding—Learn to Work with Code to Create Multimodal Webtexts and Publish Them on GitHub
-
-This Engaged Learning Experience session will introduce participants to Open Fuego, a basic coding tool designed for the rhetoric and composition classroom (Quigley, 2022). The goal of this workshop is to introduce participants to the pedagogy of basic coding and give each a primer on how to use Open Fuego. Participants will also learn teaching best practices and sample assignment cycles.
-
-- **Where**: Room 4K (4th floor)
-- **When**: Saturday, 8:00–9:15 a.m.
-- **Speaker**: Stephen Quigley, University of Pittsburgh
 
 
 ### THURSDAY - 02/16/23
@@ -56,6 +48,21 @@ This panel offers critical strategies for advancing institutional change across 
 
 
 ### FRIDAY - 02/17/23
+
+#### CCCC 2023 Special Session: ChatGPT, Magical Thinking, and the Discourse of Crisis
+
+<img src="/uploads/posts/cccc-2023-chatgpt.jpg" alt="Session banner fo. The speakers' profile images are provided along with the session title.">
+
+In this roundtable, experts in digital technologies, media, and literacies gather to discuss the rise of ChatGPT, its pedagogical implications, and the crisis-speak within and beyond the academy that attended its launch in the fall of 2022, along with its swift user uptake in the months since.
+
+- **Where**: International Ballroom North, 2nd Floor, Hilton Chicago
+- **When**: Friday, February 17, 8:00 a.m. 
+- **Speakers**:
+    * Antonio Byrd
+    * Harry Denny
+    * Gavin P. Johnson
+    * Aimee Morrison
+    * Charles Woods
 
 #### F.15 Collaborative Teaching and New Approaches to STEM Learning
 
@@ -94,6 +101,16 @@ This panel examines four communities of coding literacy development. Looking to 
     - Brandee Easter, York University
     - Elena Kalodner-Martin, University of Massachusetts Amherst, “When Computer Science Meets Composition: Fostering Transdisciplinary Literacies for Social Change”
     - Cara Marta Messina, Jacksonville State University, “Code-Sharing and Documentation as Digital Feminist Praxis”
+
+<hr>
+
+### J.23 Introduction to Open Fuego and Basic Coding—Learn to Work with Code to Create Multimodal Webtexts and Publish Them on GitHub
+
+This Engaged Learning Experience session will introduce participants to Open Fuego, a basic coding tool designed for the rhetoric and composition classroom (Quigley, 2022). The goal of this workshop is to introduce participants to the pedagogy of basic coding and give each a primer on how to use Open Fuego. Participants will also learn teaching best practices and sample assignment cycles.
+
+- **Where**: Room 4K (4th floor)
+- **When**: Saturday, 8:00–9:15 a.m.
+- **Speaker**: Stephen Quigley, University of Pittsburgh
 
 <hr>
 
