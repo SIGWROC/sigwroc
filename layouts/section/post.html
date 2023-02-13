@@ -1,13 +1,27 @@
 {{ define "main" }}
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 <div class="mw7 center ph3 pv4">
-  <div class="col-lg-7">
+  <div class="col-lg-7 posts__container">
     <h1>{{ .Title }}</h1>
     {{ $paginator := .Paginate (.Data.Pages) -}}
     {{ range $paginator.Pages -}}
     <article>
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-      {{ .Description }}
+      <div class="featured_image">
+
+        <img src="{{ .Image }}" />
+
+      </div>
+      <div class="featured_text">
+
+        <h2>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h2>
+        <p>
+          {{ .Description }}
+        </p>
+
+      </div>
+      
     </article>
     {{ end -}}
     {{ template "_internal/pagination.html" . -}}

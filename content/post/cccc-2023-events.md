@@ -123,4 +123,14 @@ Centering the 1960s friendship of Grace Murray Hopper and Winifred “Tim” Asp
 - **When**: Saturday, 8:00–9:15 a.m.
 - **Speaker**: Andrew Fiss, Michigan Technological University
 
+#### M.32 Teaching Engaging Practices: Games, Music, and Multimodal Pedagogy
+
+Speakers offer a diverse array of pedagogical practices to help writers engage the complexities of diversity, equity, and inclusion in and beyond the writing classroom.
+
+- **Where**: Room 4F (4th floor)
+- **When**: Saturday, 12:30–1:45 pm
+- **Speakers**:
+    * AC Carlson, Indiana University-Bloomington, “Gamespace: Doing (Playful) Hope in the Classroom”
+    * Oscar Garcia, University of Massachusetts Amherst, “Seeking Rhetorical Attunement Convergence of Multilingual and Multimodal in STROL—How Multimodal Pedagogy Diverted from the Race Question”
+
 <hr>
