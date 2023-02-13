@@ -89,6 +89,17 @@ as well as building data literacy.
 
 <hr>
 
+#### G.32 Teaching and Learning about Privacy and Surveillance: Doing Hope through the Digital Rhetorical Privacy Collective
+
+This panel builds on interdisciplinary work within and beyond rhetoric and writing studies to introduce the Digital Rhetorical Privacy Collective, a digital resource for instructors who wish to incorporate intersectional learning about digital privacy and surveillance into their classrooms.
+
+- **Where**: Room 4B (4th floor)
+- **When**: Friday, 9:30–10:45am
+- **Speakers**:
+    * Morgan Banville, East Carolina University
+    * Gavin Johnson, Texas A&amp;M University-Commerce
+    * Charles Woods, Texas A&amp;M University–Commerce
+
 ### SATURDAY - 02/18/23
 
 #### J.36 Troublemakers in Transdisciplinary Coding Communities
