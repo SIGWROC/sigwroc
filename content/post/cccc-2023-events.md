@@ -6,7 +6,13 @@ description: >-
 image: /uploads/posts/cccc-2023-banner.png
 ---
 
-Checkout SIGWROC-related events and panels at the 2023 CCCC conference next week!
+We put together a list of CCCC sessions that are related and relevant to SIGWROC. 
+
+Please contact either Chris Lindgren (lindgren@vt.edu) or Cara Marta Messina (cmessina@jsu.edu), if you’d like your panel added to the list.
+
+We look forward to seeing you there!
+
+<hr>
 
 ## FSIG.13 - SIGWROC Meeting—Doing Hope
 
@@ -18,11 +24,6 @@ Our meeting will use our time together to develop a statement of shared and foun
 <hr>
 
 ## SIGWROC-Related Sessions at CCCC
-
-We put together a list of CCCC sessions that are related to WROC. Please contact either Chris Lindgren (lindgren@vt.edu) or Cara Marta Messina (cmessina@jsu.edu), if you’d like your panel added to the list.
-
-<hr>
-
 
 ### THURSDAY - 02/16/23
 
