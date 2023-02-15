@@ -25,7 +25,7 @@ Our meeting will use our time together to develop a statement of shared and foun
 
 ## Awards
 
-Congratulations to [Anuj Gupta](https://english.arizona.edu/people/anuj-gupta)! Anuj is a recipient of the *Scholars for the Dream Award*.
+Congratulations to [Anuj Gupta](https://english.arizona.edu/people/anuj-gupta)! Anuj is a recipient of the *Scholars for the Dream Travel Award*.
 
 <hr>
 
