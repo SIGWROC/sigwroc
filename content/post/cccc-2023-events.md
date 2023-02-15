@@ -23,6 +23,12 @@ Our meeting will use our time together to develop a statement of shared and foun
 
 <hr>
 
+## Awards
+
+Congratulations to [Anuj Gupta](https://english.arizona.edu/people/anuj-gupta)! Anuj is a recipient of the *Scholars for the Dream Award*.
+
+<hr>
+
 ## SIGWROC-Related Sessions at CCCC
 
 ### THURSDAY - 02/16/23
@@ -47,6 +53,10 @@ This panel offers critical strategies for advancing institutional change across 
 - **When**: Thursday, 1:45–3:00 pm
 - **Pertinent Speaker**: Maggie Fernandes, University of Arkansas, “Hope in Collective Complaint: Reading Digital Creator Complaints as Maps for Better Platform Futures”
 
+#### E.12 Teaching with AI: Using Writing Generators in the Classroom
+
+- **When**: Thursday, 4:45pm
+- **Speaker**: Anna Mills
 
 ### FRIDAY - 02/17/23
 
