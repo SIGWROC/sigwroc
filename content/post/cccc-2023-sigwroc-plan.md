@@ -38,6 +38,6 @@ We will take up the following 4 MoD parts to organize our discussion:
 
 We will use large post-its and sharpies to log ideas, along with the meeting minutes.
 
+#### Hang Out! 
 
-Hang Out! 
 Let’s go hang out
