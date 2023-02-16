@@ -1,5 +1,5 @@
 ---
-title: SIGWROC at 2023 4Cs - Fri., 2/17 @ 3:30–4:30pm!
+title: SIGWROC Events and Panels at 2023 CCCCs
 date: 2023-02-09T14:00:00.868Z
 description: >-
   Doing Hope with SIGWROC at CCCC 2023!
