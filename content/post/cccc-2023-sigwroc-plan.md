@@ -40,4 +40,4 @@ We will use large post-its and sharpies to log ideas, along with the meeting min
 
 #### Hang Out! 
 
-Let’s go hang out
+Let’s go hang out! :-)
