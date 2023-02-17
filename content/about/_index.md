@@ -97,13 +97,13 @@ cccc_meetings:
       introduced and short lightning round breakout rooms were created so group
       members could get to know each other.
     agenda: ../uploads/meetings/2021-sigwroc-lightning-rounds.pdf
-    notes: ""
+    notes: https://docs.google.com/document/d/1Pmw8G1StPSUcv46qNEPqHeIFW7HylQiw4pqEvw2TXBY/edit?usp=sharing
   - heading: 2021 First Official Committee Meeting
     text: The first official WROC Committee Meeting after elections. The committee
       discusses goals to continue the development of WROC, including building
       bibliographies and a mentorship program.
     agenda: ../uploads/meetings/2021-10-15-firstcommitteemeeting.pdf
   - heading: 2022 Meeting
-    text: The WROC SIG will meet virtually again for 4Cs 2022. Stay tuned for more
-      information!
+    text: The WROC SIG met virtually again for 4Cs 2022.
+    notes: https://docs.google.com/document/d/1NqEr7VZJv0zPVSe8s0tOLNdlHXkOcMAA4rv_YohB8qY/edit?usp=sharing
 ---
