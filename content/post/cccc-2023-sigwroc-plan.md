@@ -31,7 +31,7 @@ image: /uploads/posts/cccc-2023-banner.png
 
 We will take up the following 4 MoD parts to organize our discussion:
 
-- *Hegominic*: The dominant ideas and values inform and maintain oppressive conditions and practices?
+- *Hegemonic*: The dominant ideas and values inform and maintain oppressive conditions and practices?
 - *Structural*: What institutions, groups, communities, etc. organize enact such hegemony? Experience hegemony?
 - *Interpersonal*: Based on one’s positionality, what types of everyday situations are organized and produced by this organization and enaction of power?
 - *Disciplinary*: What rules (norms, policies, protocols, procedures, etc.) do different people experience differently, due to the above relationships?
