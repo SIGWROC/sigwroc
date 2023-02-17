@@ -106,4 +106,7 @@ cccc_meetings:
   - heading: 2022 Meeting
     text: The WROC SIG met virtually again for 4Cs 2022.
     notes: https://docs.google.com/document/d/1NqEr7VZJv0zPVSe8s0tOLNdlHXkOcMAA4rv_YohB8qY/edit?usp=sharing
+  - heading: 2023 Meeting
+    text: The WROC SIG will meet face-to-face at 4Cs 2023.
+    agenda: https://wroc.netlify.app/post/cccc-2023-sigwroc-plan/
 ---
