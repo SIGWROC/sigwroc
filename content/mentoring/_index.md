@@ -13,11 +13,10 @@ sections:
       To help with this persistent issue, we are implementing the following programs below.
     heading: A Goal to Support Each Other
   - text: >-
-      **When (Updated)**: April 1, May 6, June 3, July 1, August 5, September 2,
-      October 7, November 4, December 2, 11am-12:30pm ET
+      **When**: New dates and times TBA
 
 
-      **Where**: Zoom link to come!
+      **Where**: Zoom link TBA
 
 
       As part of our new mentorship program, SIGWROC will be hosting a series of writing-focused meet ups to help mentors and mentees connect in a low stakes way. 
@@ -61,7 +60,7 @@ mentor_list:
       Communication at Virginia Tech. His research and teaching focuses on
       coding as a form of writing with data, digital cultural rhetoric, and
       visual rhetoric.
-    status: Available
+    status: Currenty Unavailable
     contact: lindgren@vt.edu
     imageUrl: /uploads/lindgren_portrait_2020.jpg
     alttext: Profile picture of Dr. Chris Lindgren
