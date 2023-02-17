@@ -25,7 +25,7 @@ image: /uploads/posts/cccc-2023-banner.png
 
 #### “Doing [Intersectional] Hope” Invention Activity (~40 minutes)
 
-**Goal**: Generate important values, ideas, and directives to guide the SIGWROC field in our research, teaching, and service. Our statement will 
+**Goal**: Generate important values, ideas, and directives to guide the SIGWROC field in our research, teaching, and service.
 
 **How**: Apply Collins’ (*Black Feminist Thought*, 2009) matrix of domination (types of power) to support a large group invention activity. The plan will be to use the framework to identify issues of power related to code, data, algorithms, etc. and their oppositions as a means to envision a more just future to work for. 
 
