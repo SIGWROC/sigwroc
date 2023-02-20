@@ -1,5 +1,5 @@
 ---
-workshopstatus: upcoming
+workshopstatus: past
 leaders: Chris Lindgren, Virginia Tech
 title: Webscraping with Python! - Part 1
 wrocshop_date: November 11, 2022
@@ -12,11 +12,13 @@ description: "This first part covers the ground work for researchers invested in
 location: Zoom
 flyer_req_title: Webscraping with Python!
 flyer_req_url: /uploads/wrocshops/wroc_2022_webscraping_python_1.pdf
-signup_url: https://forms.gle/aMeseMMDr3BH5V9H6
+# signup_url: https://forms.gle/aMeseMMDr3BH5V9H6
+slides_url: https://sigwroc.github.io/wroc-web-scraping-series/1-overview-setup/index.html
 tags:
   - web scraping
   - python
   - data collection
+  - research method
 fields:
   - computational rhetoric
 ---

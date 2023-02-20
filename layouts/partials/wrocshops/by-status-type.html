@@ -1,4 +1,4 @@
-<div class="card_container mw8 center bg-grey-1">
+<section class="card_container mw8 center bg-grey-1">
 
   {{ range first 1 (where .Site.Pages "Params.workshopstatus" "upcoming") }}
 
@@ -38,6 +38,11 @@
       {{ if .Params.signup_url }}
       <p>
         <strong>Sign-Up</strong>: <a href="{{ .Params.signup_url }}" target="_blank" rel="noopener">Signup Survey</a>.
+      </p>
+      {{ end }}
+      {{ if .Params.slides_url }}
+      <p>
+        <strong>Slides</strong>: <a href="{{ .Params.slides_url }}" target="_blank" rel="noopener">Slides served up by Github.com</a>
       </p>
       {{ end }}
       {{ if .Params.tags }}
@@ -83,6 +88,11 @@
       {{ if .Params.signup_url }}
       <p>
         <strong>Sign-Up</strong>: <a href="{{ .Params.signup_url }}" target="_blank" rel="noopener">Signup Survey</a>.
+      </p>
+      {{ end }}
+      {{ if .Params.slides_url }}
+      <p>
+        <strong>Slides</strong>: <a href="{{ .Params.slides_url }}" target="_blank" rel="noopener">Slides served up by Github.com</a>
       </p>
       {{ end }}
       {{ if .Params.tags }}
@@ -138,6 +148,11 @@
         <strong>Sign-Up</strong>: <a href="{{ .Params.signup_url }}" target="_blank" rel="noopener">Signup Survey</a>.
       </p>
       {{ end }}
+      {{ if .Params.slides_url }}
+      <p>
+        <strong>Slides</strong>: <a href="{{ .Params.slides_url }}" target="_blank" rel="noopener">Slides served up by Github.com</a>
+      </p>
+      {{ end }}
       {{ if .Params.tags }}
         <p class="proj-tags"><strong>tags</strong>:
           {{ range (.GetTerms "tags") }}
@@ -183,6 +198,11 @@
         <strong>Sign-Up</strong>: <a href="{{ .Params.signup_url }}" target="_blank" rel="noopener">Signup Survey</a>.
       </p>
       {{ end }}
+      {{ if .Params.slides_url }}
+      <p>
+        <strong>Slides</strong>: <a href="{{ .Params.slides_url }}" target="_blank" rel="noopener">Slides served up by Github.com</a>
+      </p>
+      {{ end }}
       {{ if .Params.tags }}
         <p class="proj-tags"><strong>tags</strong>:
           {{ range (.GetTerms "tags") }}
@@ -203,4 +223,4 @@
     
   {{ end }}
 
-</div>
+</section>
