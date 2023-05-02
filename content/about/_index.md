@@ -104,9 +104,10 @@ cccc_meetings:
       bibliographies and a mentorship program.
     agenda: ../uploads/meetings/2021-10-15-firstcommitteemeeting.pdf
   - heading: 2022 Meeting
-    text: The WROC SIG met virtually again for 4Cs 2022.
+    text: SIGWROC met virtually again for 4Cs 2022.
     notes: https://docs.google.com/document/d/1NqEr7VZJv0zPVSe8s0tOLNdlHXkOcMAA4rv_YohB8qY/edit?usp=sharing
   - heading: 2023 Meeting
-    text: The WROC SIG will meet face-to-face at 4Cs 2023.
+    text: SIGWROC met face-to-face at 4Cs 2023 in Chicago, IL.
     agenda: https://wroc.netlify.app/post/cccc-2023-sigwroc-plan/
+    notes: https://docs.google.com/document/d/1Em-jScemsZzn_LiB2I-XI8RuSae33miDOIQfjhOqDLM/edit?usp=sharing
 ---

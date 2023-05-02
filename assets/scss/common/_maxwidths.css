@@ -12,6 +12,8 @@
 .mw8  {  max-width: 64rem; }
 .mw9  {  max-width: 96rem; }
 
+.cms { margin: auto; }
+
 /* Max Width String Properties */
 
 .mw-none { max-width: none; }

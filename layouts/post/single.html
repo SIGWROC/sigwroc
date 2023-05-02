@@ -10,13 +10,13 @@
       <p>Read in {{ .ReadingTime }} minutes</p>
     </div>
 
-    <div class="cms mw7">
+    <article class="cms mw8 blog__post">
 
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
 
       {{ .Content }}
 
-    </div>
+    </article>
   </div>
 
 {{ end }}
