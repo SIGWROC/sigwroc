@@ -8,7 +8,7 @@ image: /uploads/posts/cccc-2024-sigwroc-cited-cfp.png
 
 We're thankful to 4Cs Program Chair Dr. Sano-Franchini for the shoutout in her CFP about "[Writing Abundance](https://cccc.ncte.org/cccc/call-2024)"! It's a testament to the dedication of all of you WROC-ers who are helping stabilize us as a subfield in our discipline.
 
-As the current Chair, I've worked with so many amazing minds to create and update a public [bibliography](/bibliography), as well as meet regularly over the last few years to inch towards a proposal for Standing Group status. We see these two simple, but integral first steps, as a means to advertize and stabilize our presence at 4Cs and across the discipline.
+As a collective, we've worked together to create and update a public [bibliography](/bibliography) and meet regularly over the last few years. These meetings have already created new collaborations, and I've heard stories about the usefulness of the bibliography for folks to see that they're not alone! And, this momentum moves us closer towards Standing Group status, so we can be assured to have a reserved spot on the schedule. We see these two simple, but integral first steps, as a means to advertize and stabilize our presence at 4Cs and across the discipline.
 
 Thank you all for your continued support, and we hope to see you at our next SIG meeting in Spokane, WA.
 
