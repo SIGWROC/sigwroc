@@ -14,7 +14,6 @@ Thank you all for your continued support, and we hope to see you at our next SIG
 
 Sincerely,
 
-Chris Lindgren
-Chair and Founder of SIGWROC
+Chris Lindgren | Chair and Founder of SIGWROC
 
 p.s. Stay tuned! We're almost ready to announce our election results for the Communications Officer, At-Large Member, and Graduate-Student Member positions.
