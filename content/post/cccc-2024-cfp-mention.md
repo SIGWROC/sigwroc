@@ -10,9 +10,9 @@ We're thankful to 4Cs Program Chair Dr. Sano-Franchini for the shoutout in her C
 
 As a collective, we've worked together to establish of the following items since 2017:
 
-1. establish a formal and elected committee, 
+1. establish a formal and elected [committee](/about#current-committee), 
 2. create and update a public [bibliography](/bibliography), 
-3. propose and meet regularly at 4cs, and 
+3. propose and meet regularly at 4cs, 
 4. create programs like the informal mentoring group, [WROC and Write!](/mentoring), and workshops, such as "[Web Scraping with Python](/wrocshops)" 
 
 These actions have already created new research collaborations, and I've heard stories about the usefulness of the bibliography for exam lists and their research. And, this momentum moves us closer towards Standing Group status, so we can be assured to have a reserved spot on the schedule. We see these two simple, but integral first steps, as a means to advertize and stabilize our presence at 4Cs and across the discipline.
