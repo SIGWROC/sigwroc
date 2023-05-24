@@ -24,7 +24,7 @@ committee_list:
     role: Chair
     bio: Dr. Chris Lindgren's (he/him) research and teaching focuses on coding as a
       form of writing with data, digital cultural rhetoric, and visual rhetoric.
-    imageUrl: /uploads/lindgren_portrait_2020.jpg
+    imageUrl: /uploads/committee/chris-lindgren-portrait-2020.jpg
     alttext: Profile picture of Chris Lindgren
   - name: Brandee Easter
     title: Assistant Professor of Writing
@@ -33,34 +33,66 @@ committee_list:
     role: Associate Chair
     bio: Dr. Brandee Easter's research and teaching focuses on digital rhetoric,
       feminist rhetoric, and 21st century literacies.
-    imageUrl: /uploads/easter_brandee_profile.jpeg
+    imageUrl: /uploads/committee/brandee-easter-headshot.jpeg
     alttext: Profile image of Dr. Brandee Easter
-  - name: Cara Marta Messina
-    title: Assistant Professor of English (Professional Writing)
-    institution: Jacksonville State University
+  - name: Maggie Fernandes
+    title: Assistant Professor of Rhetoric and Composition
+    institution: University of Arkansas
     status: Current
+    role: Communication Officer
+    bio: Dr. Maggie Fernandes's (she/her) research and teaching focuses on digital cultural rhetorics, visual rhetoric, content moderation, and writing assessment.
+    imageUrl: /uploads/committee/maggie-fernandes-headshot.jpg
+    alttext: Profile image of Maggie Fernandes, Assistant Professor of Rhetoric and Composition
+  - name: Ashley Rea
+    institution: Embry-Riddle Aeronautical University
+    title: Assistant Professor of Rhetoric and Composition
+    status: Current
+    role: At-Large Member
+    bio: Dr. Ashley Rea researches technology & equity, teaches technical communication and ux writing, and serves as the Director of the Eagle Writing & Design Lab. Her work specializes in feminist coding literacy.
+    imageUrl: /uploads/committee/ashley-rea-headshot.jpeg
+    alttext: Profile image of Ashley Rea, Assistant Professor of Rhetoric and Composition
+  - name: Anuj Gupta
+    institution: Arizona State University
+    title: PhD Student
+    status: Current
+    role: Graduate Student Representative
+    bio: Anuj Gupta is a PhD student, UX researcher, Instructional designer, and Data Science and Digital Scholarship Fellow at the University of Arizona. His research and teaching agenda focuses on designing, analyzing, testing, and deploying educational technologies to create transformative learning experiences that promote social justice, inclusion, and empowerment for diverse audiences.
+    imageUrl: /uploads/committee/anuj-gupta-headshot.jpeg
+    alttext: Profile of Anuj Gupta
+  - name: Oscar Garcia
+    institution: University of Massachusetts Amherst
+    title: PhD Student
+    status: Current
+    role: Graduate Student Representative
+    bio: Garcia's research interests lie in critical race theory, multimodal pedagogy, first year writing instruction, writing pedagogy, code-meshing, BIPOC rhetoric and Hip Hop pedagogy.
+    imageUrl: /uploads/committee/oscar-garcia-headshot.jpg
+    alttext: Profile of Oscar Garcia
+  - name: Cara Marta Messina
+    title: Assistant Professor of English
+    institution: Marist College
+    status: Former
     role: Communication Officer
     bio: Dr. Cara Marta Messina's research and teaching focus on digital rhetoric,
       intersectional feminism, game studies, coding and data rhetorics, and fan
       studies.
-    imageUrl: /uploads/messinaheadshot.jpeg
+    imageUrl: /uploads/cara-messina-headshot.jpeg
     alttext: Profile image of Cara Marta Messina
   - name: Sarah Young
-    institution: University of Arizona
-    status: Current
+    institution: Erasmus University Rotterdam
+    title: Postdoc in Digitization (Media and Communication)
+    status: Former
     role: At-Large Member
     bio: Dr. Sarah Young researches surveillance, technology, communication,
       digitalization, policy, justice, and ethics, especially for systems and in
-      the workplace.  She spent over 11 years as an investigator doing national
+      the workplace. She spent over 11 years as an investigator doing national
       security and public trust background investigations in the United States.
     imageUrl: /uploads/young_sarah_profile.jpeg
-    alttext: Profile of Sarah Young.
-    title: Lecturer
-  - bio: "Elena Kalodner-Martin's research is at the intersection of the rhetoric of health and medicine, technical communication, and feminist studies. Her dissertation theorizes patient narratives on social media as a form of technical and technological expertise."
-    name: Elena Kalodner-Martin
+    alttext: Profile of Sarah Young
+  - name: Elena Kalodner-Martin
     title: Ph.D. Candidate
     institution: University of Massachusetts Amherst
-    status: Current
+    bio: "Elena Kalodner-Martin's research is at the intersection of the rhetoric of health and medicine, technical communication, and feminist studies. Her dissertation theorizes patient narratives on social media as a form of technical and technological expertise."
+    status: Former
     role: Graduate Student Representative
     imageUrl: /uploads/ekalodnermar_profile.jpeg
     alttext: Profile of Elena Kalodner-Martin.
