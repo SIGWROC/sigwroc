@@ -141,5 +141,5 @@ cccc_meetings:
   - heading: 2023 Meeting
     text: SIGWROC met face-to-face at 4Cs 2023 in Chicago, IL.
     agenda: https://wroc.netlify.app/post/cccc-2023-sigwroc-plan/
-    notes: https://docs.google.com/document/d/1Em-jScemsZzn_LiB2I-XI8RuSae33miDOIQfjhOqDLM/edit?usp=sharing
+    notes: https://docs.google.com/document/d/11MyOBwxQ7KRn2m8YXmQhhhWm4hYHKt7-nlSZvJnzEC8/edit?usp=sharing
 ---
