@@ -52,7 +52,7 @@ committee_list:
     imageUrl: /uploads/committee/ashley-rea-headshot.jpeg
     alttext: Profile image of Ashley Rea, Assistant Professor of Rhetoric and Composition
   - name: Anuj Gupta
-    institution: Arizona State University
+    institution: University of Arizona
     title: PhD Student
     status: Current
     role: Graduate Student Representative
