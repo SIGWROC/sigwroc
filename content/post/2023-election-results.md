@@ -16,7 +16,7 @@ The results are in! We are pleased to announce the results of our newest committ
 - Communications Officer: Dr. Maggie Fernandes, U of Arkansas
 - Member At-Large: Dr. Ashley Rea, Embry-Riddle Aeronautical University 	
 - Graduate Student Reps: We had a tie, and both agreed to serve!
-    - Anuj Gupta, Ph.D. Student, Arizona State University
+    - Anuj Gupta, Ph.D. Student, University of Arizona
     - Oscar Garcia, Ph.D. Student, University of Massachusetts Amherst
 
 Thank you to our past officers, who really advanced our SIG's agenda over the course of their tenure with us:
