@@ -2,8 +2,7 @@
 shorttitle: Byrd, Like Coming Home
 pubtype: journal
 authors: Byrd, Antonio
-title: '"Like Coming Home": African Americans Tinkering and Playing toward a
-  Computer Code Bootcamp'
+title: '"Like Coming Home": African Americans Tinkering and Playing toward a Computer Code Bootcamp'
 year: "2020"
 journal: College Composition and Communication
 volume: "71"
