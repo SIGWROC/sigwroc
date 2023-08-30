@@ -11,7 +11,7 @@
 
     <ul class="flex-ns flex-wrap mhn1-ns cite">
 
-      {{ range .Pages.ByParam "authors" }}
+      {{ range (.Pages.ByParam "year").Reverse }}
 
         {{ if (eq .Params.pubtype "book") }}
           <li>
