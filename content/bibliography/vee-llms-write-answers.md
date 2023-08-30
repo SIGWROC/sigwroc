@@ -1,6 +1,6 @@
 ---
 shorttitle: Vee, Large Language Models Write Answers
-pubtype: journal
+pubtype: article
 authors: Vee, Annette
 title: "Large Language Models Write Answers"
 year: "2023"

@@ -1,6 +1,6 @@
 ---
 shorttitle: Byrd, Truth-Telling
-pubtype: journal
+pubtype: article
 authors: Byrd, Antonio
 title: "Truth-Telling: Critical Inquiries on LLMs and the Corpus Texts That Train Them"
 year: "2023"

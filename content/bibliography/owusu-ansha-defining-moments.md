@@ -1,6 +1,6 @@
 ---
 shorttitle: Owusu-Ansah, Defining Moments
-pubtype: journal
+pubtype: article
 authors: Owusu-Ansah, Alfred L.
 title: "Defining Moments, Definitive Programs, and the Continued Erasure of Missing People"
 year: "2023"

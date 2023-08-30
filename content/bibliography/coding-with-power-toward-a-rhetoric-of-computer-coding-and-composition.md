@@ -1,5 +1,5 @@
 ---
-pubtype: journal
+pubtype: article
 authors: Cummings, Robert
 title: "Coding with power: Toward a rhetoric of computer coding and composition"
 year: "2006"

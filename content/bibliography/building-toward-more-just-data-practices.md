@@ -1,5 +1,5 @@
 ---
-pubtype: journal
+pubtype: article
 authors: Gouge, Catherine C. and Erin Brock Carlson
 title: Building Toward More Just Data Practices
 year: "2022"

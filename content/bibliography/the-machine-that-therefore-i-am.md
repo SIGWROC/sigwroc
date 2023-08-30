@@ -1,5 +1,5 @@
 ---
-pubtype: journal
+pubtype: article
 authors: Brown, James, Jr
 title: The Machine That Therefore I Am
 year: "2014"

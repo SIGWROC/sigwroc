@@ -1,6 +1,6 @@
 ---
 shorttitle: Stanton, A Dis-Facilitated Call
-pubtype: journal
+pubtype: article
 authors: Stanton, Courtney
 title: "A Dis-Facilitated Call for More Writing Studies in the New AI Landscape; or, Finding Our Place Among the Chatbots"
 year: "2023"

@@ -1,5 +1,5 @@
 ---
-pubtype: journal
+pubtype: article
 authors: Tekobbe, Cindy, and McKnight, John Carter
 title: "Indigenous cryptocurrency: Affective capitalism and rhetorics of sovereignty"
 year: "2016"

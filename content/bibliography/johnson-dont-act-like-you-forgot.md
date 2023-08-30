@@ -1,6 +1,6 @@
 ---
 shorttitle: Johnson, Don't Act Like You Forgot
-pubtype: journal
+pubtype: article
 authors: Johnson, Gavin P.
 title: "Don't Act Like You Forgot: Approaching Another Literacy 'Crisis' by (Re)Considering What We Know about Teaching Writing with and through Technologies"
 year: "2023"

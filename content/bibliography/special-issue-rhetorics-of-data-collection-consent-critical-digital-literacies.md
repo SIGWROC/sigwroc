@@ -1,5 +1,5 @@
 ---
-pubtype: journal
+pubtype: article
 authors: Hutchinson, Les and Marie Novotny, (Eds.)
 title: "Special Issue: Rhetorics of Data: Collection, Consent, & Critical
   Digital Literacies"

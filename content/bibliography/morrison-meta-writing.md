@@ -1,6 +1,6 @@
 ---
 shorttitle: Morrison, Meta-Writing
-pubtype: journal
+pubtype: article
 authors: Morrison, Aimée
 title: "Meta-Writing: AI and Writing"
 year: "2023"

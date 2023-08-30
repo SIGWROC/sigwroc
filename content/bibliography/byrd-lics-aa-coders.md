@@ -1,6 +1,6 @@
 ---
 shorttitle: Byrd, Between Learning and Opportunity
-pubtype: journal
+pubtype: article
 authors: Byrd, Antonio
 title: "Between Learning and Opportunity: A Study of African American Coders’
   Networks of Support"

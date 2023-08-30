@@ -1,5 +1,5 @@
 ---
-pubtype: journal
+pubtype: article
 authors: Danner, Patrick
 title: Story/Telling with Data as Distributed Activity
 year: "2020"

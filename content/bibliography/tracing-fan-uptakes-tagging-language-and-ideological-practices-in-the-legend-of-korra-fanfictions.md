@@ -1,5 +1,5 @@
 ---
-pubtype: journal
+pubtype: article
 authors: Messina, Cara
 title: "Tracing Fan Uptakes: Tagging, Language, and Ideological Practices in The
   Legend of Korra Fanfictions"

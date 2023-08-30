@@ -1,6 +1,6 @@
 ---
 shorttitle: Masters, Women's Ways
-pubtype: journal
+pubtype: article
 authors: 'Masters, Christina. L'
 title: Women’s ways of structuring data
 year: '2015'

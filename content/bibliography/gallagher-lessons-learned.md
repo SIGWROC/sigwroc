@@ -1,6 +1,6 @@
 ---
 shorttitle: Gallagher, Lessons Learned
-pubtype: journal
+pubtype: article
 authors: Gallagher, John R.
 title: "Lessons Learned from Machine Learning Researchers about the Terms 'Artificial Intelligence' and 'Machine Learning'"
 year: "2023"

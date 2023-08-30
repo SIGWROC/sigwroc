@@ -1,5 +1,5 @@
 ---
-pubtype: journal
+pubtype: article
 authors: Gray, Kellie, and Steve Holmes
 title: Tracing Ecologies of Code Literacy and Constraint in Emojis as Multimodal
   Public Pedagogy

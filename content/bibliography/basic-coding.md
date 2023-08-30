@@ -1,5 +1,5 @@
 ---
-pubtype: journal
+pubtype: article
 authors: Quigley, Stephen
 title: Basic Coding
 year: "2022"

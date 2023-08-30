@@ -1,5 +1,5 @@
 ---
-pubtype: journal
+pubtype: article
 authors: Young, Sarah
 title: "Organizational change and security clearance reform: From the January
   2021 Capitol insurrection to a future with artificial intelligence?"

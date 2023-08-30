@@ -1,6 +1,6 @@
 ---
 shorttitle: Easter, feminist_brevity
-pubtype: journal
+pubtype: article
 authors: 'Easter, Brandee'
 title: >-
   “feminist_brevity_in_light_of_masculine_long-windedness”: Code, space, and

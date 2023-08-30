@@ -1,5 +1,5 @@
 ---
-pubtype: journal
+pubtype: article
 authors: Young, Sarah
 title: "Not too deep: Privacy, resistance, and the incorporation of social media
   in background checks"

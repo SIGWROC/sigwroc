@@ -1,6 +1,6 @@
 ---
 shorttitle: Graham, Post-Process
-pubtype: journal
+pubtype: article
 authors: Graham, S. Scott
 title: "Post-Process but Not Post-Writing: Large Language Models and a Future for Composition Pedagogy"
 year: "2023"

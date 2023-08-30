@@ -1,6 +1,6 @@
 ---
 shorttitle: Lindgren, Writing with Data
-pubtype: journal
+pubtype: article
 authors: Lindgren, Chris
 title: "Writing With Data: A Study of Coding on a Data-Journalism Team"
 year: "2021"

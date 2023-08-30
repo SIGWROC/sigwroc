@@ -1,5 +1,5 @@
 ---
-pubtype: journal
+pubtype: article
 authors: Sorapure, Madeleine
 title: "Text, image, code, comment: Writing in Flash"
 year: "2006"

@@ -1,5 +1,5 @@
 ---
-pubtype: journal
+pubtype: article
 authors: Mauriello, Nicholas, Pagnuccia, Gian S., and Winter, Tammy
 title: "Reading between the code: The teaching of HTML and the displacement of
   writing instruction"

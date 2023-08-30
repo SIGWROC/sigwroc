@@ -1,5 +1,5 @@
 ---
-pubtype: journal
+pubtype: article
 authors: Easter, Brandee
 title: "Fully Human, Fully Machine: Rhetorics of Digital Disembodiment in Programming"
 year: "2020"

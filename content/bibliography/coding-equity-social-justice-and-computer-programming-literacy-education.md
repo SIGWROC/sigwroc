@@ -1,5 +1,5 @@
 ---
-pubtype: journal
+pubtype: article
 authors: Rea, Ashley
 title: "Coding Equity: Social Justice and Computer Programming Literacy Education"
 year: "2022"

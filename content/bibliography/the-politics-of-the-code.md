@@ -1,5 +1,5 @@
 ---
-pubtype: journal
+pubtype: article
 authors: Haefner, Joel
 title: The politics of the code
 year: "1999"
