@@ -10,8 +10,8 @@ pages: 151-182
 ext_url: https://wac.colostate.edu/docs/jwa/vol3/messina.pdf
 tags:
   - fanfiction
-  - computational method
 fields:
   - digital rhetoric
   - feminist rhetoric
+  - computational rhetoric
 ---
