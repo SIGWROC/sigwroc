@@ -6,7 +6,7 @@ description: >-
 image: /uploads/wrocshops/open-fuego-quigley-workshop.png
 ---
 
-SIGWROC-er Stephen J. Quigley (University of Pittsburgh) is leading a workshop on 11/17/2023 about how to integrate code into your writing classroom!
+SIGWROC-er Stephen J. Quigley (University of Pittsburgh) is leading a workshop on 11/17/2023, 1:00pm-2:30pm (EST), about how to integrate code into your writing classroom!
 
 Participants need not have any coding experience, and they will learn methods for working with code and scaffolding assignments in portfolio-based courses.
 
