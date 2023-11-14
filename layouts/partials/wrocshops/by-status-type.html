@@ -92,7 +92,12 @@
       {{ end }}
       {{ if .Params.slides_url }}
       <p>
-        <strong>Slides</strong>: <a href="{{ .Params.slides_url }}" target="_blank" rel="noopener">Slides served up by Github.com</a>
+        <strong><a href="{{ .Params.slides_url }}" target="_blank" rel="noopener">Slides</a></strong>
+      </p>
+      {{ end }}
+      {{ if .Params.streaming_url }}
+      <p>
+        <strong><a href="{{ .Params.streaming_url }}" target="_blank" rel="noopener">Streaming Link</a></strong>
       </p>
       {{ end }}
       {{ if .Params.tags }}
@@ -150,7 +155,12 @@
       {{ end }}
       {{ if .Params.slides_url }}
       <p>
-        <strong>Slides</strong>: <a href="{{ .Params.slides_url }}" target="_blank" rel="noopener">Slides served up by Github.com</a>
+        <strong><a href="{{ .Params.slides_url }}" target="_blank" rel="noopener">Slides</a></strong>
+      </p>
+      {{ end }}
+      {{ if .Params.streaming_url }}
+      <p>
+        <strong><a href="{{ .Params.streaming_url }}" target="_blank" rel="noopener">Streaming Link</a></strong>
       </p>
       {{ end }}
       {{ if .Params.tags }}
