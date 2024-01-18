@@ -1,5 +1,5 @@
 ---
-workshopstatus: upcoming
+workshopstatus: past
 leaders: Stephen J. Quigley, University of Pittsburgh
 title: Open Fuego Portfolio Workshop
 wrocshop_date: November 17, 2023

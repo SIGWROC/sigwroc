@@ -53,7 +53,7 @@ mentor_list:
       feminist rhetoric, and 21st century literacies.
     status: Available
     contact: bdeaster@yorku.ca
-    imageUrl: /uploads/easter_brandee_profile.jpeg
+    imageUrl: /uploads/committee/brandee-easter-headshot.jpeg
     alttext: Profile picture of Dr. Brandee Easter
   - heading: Chris Lindgren
     bio: Dr. Chris Lindgren (he/him) is an Assistant Professor of Technical
@@ -62,7 +62,7 @@ mentor_list:
       visual rhetoric.
     status: Currenty Unavailable
     contact: lindgren@vt.edu
-    imageUrl: /uploads/lindgren_portrait_2020.jpg
+    imageUrl: /uploads/committee/chris-lindgren-portrait-2020.jpg
     alttext: Profile picture of Dr. Chris Lindgren
   - heading: Cara Marta Messina
     bio: "Cara Marta Messina (she/her) is as Assistant Professor of English
@@ -71,6 +71,6 @@ mentor_list:
       coding and data rhetorics, and fan studies. "
     status: Available
     contact: cmessina@jsu.edu
-    imageUrl: /uploads/messinaheadshot.jpeg
+    imageUrl: /uploads/cara-messina-headshot.jpeg
     alttext: Profile picture of Dr. Cara Marta Messina.
 ---
