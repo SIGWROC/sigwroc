@@ -17,7 +17,7 @@ The Writing and Rhetoric of Code (WROC) group was established in 2017 to bring t
 - **Date**: April 5, 2024
 - **Time**: 3:30-4:30 PM PDT
 - **Location**: Spokane Convention Center, Lower Level, Room 303 A/B
-- **Zoom Link**: [https://bit.ly/sigwroc24](bit.ly/sigwroc24)
+- **Zoom Link**: [https://arizona.zoom.us/j/81197721082](https://arizona.zoom.us/j/81197721082)
 
 During our annual meeting, we will continue to discuss and workshop our SIG’s current bibliography project (wroc.netlify.app/bibliography). Our goal is to capture the abundance of the work being done in this growing subfield and specifically how this work is guided by our commitments to socially just research, teaching, and outreach. We will also discuss nominations for new chair and associate chair positions.
 
