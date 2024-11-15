@@ -4,8 +4,9 @@ authors: Rea, Ashley
 title: "Coding Equity: Social Justice and Computer Programming Literacy Education"
 year: "2022"
 journal: IEEE Transactions on Professional Communication
-volume: Early Access
-pages: 1-17
+volume: 65
+issue: 1
+pages: 87-103
 doi: https://doi.org/10.1109/TPC.2022.3143965
 annotation: This analysis revealed how coding workshops and bootcamps operate as
   literacy sponsors, contributing to a transformative access for participants.
